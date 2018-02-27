@@ -1,7 +1,11 @@
+#!/usr/bin/env python3
+
 # -----------------------------------------------------------------------------
 
 import csv
 import operator
+import sys
+import os.path
 
 # -----------------------------------------------------------------------------
 
@@ -24,13 +28,57 @@ CARDTYPES = ["Artifact", "Conspiracy", "Creature",
 
 # -----------------------------------------------------------------------------
 
+def getopts(argv):
+	# Empty dictionary to store key-value pairs.
+	opts = {}  
+	# While there are arguments left to parse...
+	if not argv or len(argv) < 3:  
+		print("txt2csv -> usage './text2csv allCards decklist'.")
+		sys.exit()
+
+	if not (os.path.isfile(argv[1])):
+		print("txt2csv -> first given file does not exist.")
+		sys.exit()
+
+	if not open(argv[1], 'r'): 
+		print("txt2csv -> first given file cannot be opened.")
+		sys.exit()
+
+
+	if not (os.path.isfile(argv[2])):
+		print("txt2csv -> second given file does not exist.")
+		sys.exit()
+
+	if not open(argv[2], 'r'):
+		print("txt2csv -> second given file cannot be opened.")
+		sys.exit()
+
+    # return filename
+	return [argv[1], argv[2]]
+
+# -----------------------------------------------------------------------------
+
+files = getopts(sys.argv)
+
+cardList = files[0]
+deckFile = files[1]
+
+name = files[1].split('.')
+outputFile = "".join(name[:-1]) + "-decklist.csv"
+
+output = {}
+
+# -----------------------------------------------------------------------------
 
 for t in CARDTYPES:
     output.update( { t : [] } )
-output = {'NOTYPE' : []}
 
-with open("output.csv", "r") as allcards:
-    with open("esper.csv", "r") as decklist:
+output.update( {'NOTYPE' : []} )
+
+# -----------------------------------------------------------------------------
+
+with open(cardList, "r") as allcards:
+    with open(deckFile, "r") as decklist:
 
         cards = list(csv.reader(allcards))
         deck  = list(csv.reader(decklist))
@@ -53,9 +101,9 @@ with open("output.csv", "r") as allcards:
                         output['NOTYPE'] += [[line,card], ]
 
 
-        print(len(output))
+        # print(len(output))
 
-        with open("cardlist.csv", "w") as outfile:
+        with open(outputFile, "w") as outfile:
 
             out = csv.writer(outfile)
 
@@ -76,4 +124,9 @@ with open("output.csv", "r") as allcards:
 
                     out.writerow(inline)
 
+print("getCards -> complete, " + str(cardList) + " was outputted and modified into " + str(outputFile) + ".")
+
+sys.exit()
+
 # -----------------------------------------------------------------------------
+

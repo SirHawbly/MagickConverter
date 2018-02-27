@@ -8,8 +8,8 @@
 # given a file like...
 # INPUT FILE
 # Name
-# item
-# item
+# card typeitem
+# cost item
 #
 # Name
 # item
