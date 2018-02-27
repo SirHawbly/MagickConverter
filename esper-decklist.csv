@@ -1,0 +1,537 @@
+
+Artifact
+------------
+1,Aether Spellbomb,Artifact,{1},"{U}, Sacrifice Aether Spellbomb: Return target creature to its owner's hand.","{1}, Sacrifice Aether Spellbomb: Draw a card.","MRD-C, ARC-C, MMA-C, DDF-C",Common,$0.15,main
+1,Aetherflux Reservoir,Artifact,{4},"Whenever you cast a spell, you gain 1 life for each spell you've cast this turn.",Pay 50 life: Aetherflux Reservoir deals 50 damage to target creature or player.,KLD-R,Rare,$0.81,main
+1,Alchemist's Vial,Artifact,{2},"When Alchemist's Vial enters the battlefield, draw a card.","{1}, {T}, Sacrifice Alchemist's Vial: Target creature can't attack or block this turn.",ORI-C,Common,$0.15,main
+1,Alhammarret's Archive,Legendary Artifact,{5},"If you would gain life, you gain twice that much life instead.","If you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",ORI-M,MythicRare,$10.61,main
+1,Altar Golem,Artifact Creature  - Golem,{7},*/*,Trample,Altar Golem's power and toughness are each equal to the number of creatures on the battlefield.,Altar Golem doesn't untap during your untap step.,Tap five untapped creatures you control: Untap Altar Golem.,EVE-R,Rare,$0.35,main
+1,Altar of Shadows,Artifact,{7},"At the beginning of your precombat main phase, add {B} to your mana pool for each charge counter on Altar of Shadows.","{7}, {T}: Destroy target creature. Then put a charge counter on Altar of Shadows.",MRD-R,Rare,$0.42,main
+1,Ancestral Statue,Artifact Creature  - Golem,{4},3/4,"When Ancestral Statue enters the battlefield, return a nonland permanent you control to its owner's hand.",DTK-C,Common,$0.15,main
+1,Arcbound Crusher,Artifact Creature  - Juggernaut,{4},0/0,Trample,"Whenever another artifact enters the battlefield, put a +1/+1 counter on Arcbound Crusher.","Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)","DST-U, HOP-U",Uncommon,$0.53,main
+1,Arcbound Fiend,Artifact Creature  - Horror,{6},0/0,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.),"At the beginning of your upkeep, you may move a +1/+1 counter from target creature onto Arcbound Fiend.","Modular 3 (This enters the battlefield with three +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",DST-U,Uncommon,$0.22,main
+1,Arcbound Reclaimer,Artifact Creature  - Golem,{4},0/0,Remove a +1/+1 counter from Arcbound Reclaimer: Put target artifact card from your graveyard on top of your library.,"Modular 2 (This enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",DST-R,Rare,$1.07,main
+1,Arcbound Slith,Artifact Creature  - Slith,{2},0/0,"Whenever Arcbound Slith deals combat damage to a player, put a +1/+1 counter on it.","Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)","DST-U, HOP-U",Uncommon,$0.41,main
+1,Arcbound Worker,Artifact Creature  - Construct,{1},0/0,"Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)","DST-C, MMA-C, DDF-C",Common,$0.16,main
+1,Architects of Will,Artifact Creature  - Human Wizard,{2}{U}{B},3/3,"When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.","Cycling {(u/b)} ({(u/b)}, Discard this card: Draw a card.)","ARB-C, ARC-C",Common,$0.38,main
+1,Armillary Sphere,Artifact,{2},"{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.","CON-C, CMD-C, PC2-C, C13-C, PCA-C, CMA-C, C17-C, DDG-C, DDI-C",Common,$0.17,main
+1,Armory of Iroas,Artifact  - Equipment,{2},"Whenever equipped creature attacks, put a +1/+1 counter on it.",Equip {2},JOU-U,Uncommon,$0.20,main
+1,Arsenal Thresher,Artifact Creature  - Construct,{2}{WB}{U},2/2,"As Arsenal Thresher enters the battlefield, you may reveal any number of other artifact cards from your hand. Arsenal Thresher enters the battlefield with a +1/+1 counter on it for each card revealed this way.","ARB-C, HOP-C",Common,$0.15,main
+1,Azorius Signet,Artifact,{2},"{1}, {T}: Add {W}{U} to your mana pool.","DIS-C, ARC-C, MM3-U",Uncommon,$0.74,main
+1,Banshee's Blade,Artifact  - Equipment,{2},Equipped creature gets +1/+1 for each charge counter on Banshee's Blade.,"Whenever equipped creature deals combat damage, put a charge counter on Banshee's Blade.",Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),MRD-U,Uncommon,$0.21,main
+1,Bastion Mastodon,Artifact Creature  - Elephant,{5},4/5,{W}: Bastion Mastodon gains vigilance until end of turn.,KLD-C,Common,$0.12,main
+1,Bladed Pinions,Artifact  - Equipment,{2},Equipped creature has flying and first strike.,Equip {2},SOM-C,Common,$0.16,main
+1,Blight Sickle,Artifact  - Equipment,{2},Equipped creature gets +1/+0 and has wither. (It deals damage to creatures in the form of -1/-1 counters.),Equip {2},SHM-C,Common,$0.17,main
+1,Blinding Souleater,Artifact Creature  - Cleric,{3},1/3,"{(w/p)}, {T}: Tap target creature. ({(w/p)} can be paid with either {W} or 2 life.)","NPH-C, MM2-C",Common,$0.15,main
+1,Blinkmoth Urn,Artifact,{5},"At the beginning of each player's precombat main phase, if Blinkmoth Urn is untapped, that player adds {C} to his or her mana pool for each artifact he or she controls.","MRD-R, C16-R",Rare,$0.66,main
+1,Blood Clock,Artifact,{4},"At the beginning of each player's upkeep, that player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.",SOK-R,Rare,$0.51,main
+1,Bloodletter Quill,Artifact,{3},"{2}, {T}, Put a blood counter on Bloodletter Quill: Draw a card, then you lose 1 life for each blood counter on Bloodletter Quill.",{U}{B}: Remove a blood counter from Bloodletter Quill.,RAV-R,Rare,$0.32,main
+1,Bonded Construct,Artifact Creature  - Construct,{1},2/1,Bonded Construct can't attack alone.,ORI-C,Common,$0.15,main
+1,Bone Saw,Artifact  - Equipment,{0},Equipped creature gets +1/+0.,Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),"CON-C, OGW-C",Common,$0.16,main
+1,Bonehoard,Artifact - Equipment,{4},"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)","Equipped creature gets +X/+X, where X is the number of creature cards in all graveyards.",Equip {2},"MBS-R, C14-R, C15-R, C16-R, CMA-R",Rare,$0.31,main
+1,Bontu's Monument,Legendary Artifact,{3},Black creature spells you cast cost {1} less to cast.,"Whenever you cast a creature spell, each opponent loses 1 life and you gain 1 life.",AKH-U,Uncommon,$0.26,main
+1,Boompile,Artifact,{4},"{T}: Flip a coin. If you win the flip, destroy all nonland permanents.",C16-R,Rare,$0.63,main
+1,Burnished Hart,Artifact Creature  - Elk,{3},2/2,"{3}, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.","THS-U, C14-U, C15-U",Uncommon,$0.64,main
+1,Caltrops,Artifact,{3},"Whenever a creature attacks, Caltrops deals 1 damage to it.","UD-U, 7E-U",Uncommon,$0.33,main
+1,Cathar's Shield,Artifact  - Equipment,{0},Equipped creature gets +0/+3 and has vigilance.,Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.),EMN-C,Common,$0.16,main
+1,Cathodion,Artifact Creature  - Construct,{3},3/3,"When Cathodion dies, add {C}{C}{C} to your mana pool.","US-U, MRD-U, C14-U, MM2-C",Common,$0.16,main
+1,Chalice of Life,Artifact,{3},"{T}: You gain 1 life. Then if you have at least 10 life more than your starting life total, transform Chalice of Life.",[Front face. Transforms into Chalice of Death.],DKA-U,Uncommon,$0.69,main
+1,Charcoal Diamond,Artifact,{2},Charcoal Diamond enters the battlefield tapped.,{T}: Add {B} to your mana pool.,"MI-U, 6E-U, 7E-U, C14-U",Uncommon,$0.30,main
+1,Chief of the Foundry,Artifact Creature  - Construct,{3},2/3,Other artifact creatures you control get +1/+1.,"ORI-U, KLD-U",Uncommon,$0.21,main
+1,Chrome Steed,Artifact Creature  - Horse,{4},2/2,Metalcraft -- Chrome Steed gets +2/+2 as long as you control three or more artifacts.,SOM-C,Common,$0.13,main
+1,Clock of Omens,Artifact,{4},Tap two untapped artifacts you control: Untap target artifact.,"5DN-U, M13-U",Uncommon,$0.20,main
+1,Clone Shell,Artifact Creature  - Shapeshifter,{5},2/2,"Imprint -- When Clone Shell enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library in any order.","When Clone Shell dies, turn the exiled card face up. If it's a creature card, put it onto the battlefield under your control.",SOM-U,Uncommon,$0.20,main
+1,Cloud Key,Artifact,{3},"As Cloud Key enters the battlefield, choose artifact, creature, enchantment, instant, or sorcery.",Spells you cast of the chosen type cost {1} less to cast.,FUT-R,Rare,$9.09,main
+1,Cloudstone Curio,Artifact,{3},"Whenever a nonartifact permanent enters the battlefield under your control, you may return another permanent you control that shares a permanent type with it to its owner's hand.","RAV-R, MPS_KLD-S",Rare,$10.29,main
+1,Cobbled Wings,Artifact  - Equipment,{2},Equipped creature has flying.,Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),"ISD-C, XLN-C, DDQ-C",Common,$0.14,main
+1,Cogwork Assembler,Artifact Creature  - Assembly-Worker,{3},2/3,{7}: Create a token that's a copy of target artifact. That token gains haste. Exile it at the beginning of the next end step.,AER-U,Uncommon,$0.22,main
+1,Cogworker's Puzzleknot,Artifact,{2},"When Cogworker's Puzzleknot enters the battlefield, create a 1/1 colorless Servo artifact creature token.","{1}{W}, Sacrifice Cogworker's Puzzleknot: Create a 1/1 colorless Servo artifact creature token.",KLD-C,Common,$0.13,main
+1,Colossus of Akros,Artifact Creature  - Golem,{8},10/10,"Defender, indestructible","{10}: Monstrosity 10. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)","As long as Colossus of Akros is monstrous, it has trample and can attack as though it didn't have defender.",THS-R,Rare,$0.95,main
+1,Conjurer's Bauble,Artifact,{1},"{T}, Sacrifice Conjurer's Bauble: Put up to one target card from your graveyard on the bottom of your library. Draw a card.",5DN-C,Common,$0.21,main
+1,Conqueror's Galleon,Artifact  - Vehicle,{4},2/10,"When Conqueror's Galleon attacks, exile it at end of combat, then return it to the battlefield transformed under your control.",Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.),[Front face. Transforms into Conqueror's Foothold.],XLN-R,Rare,$0.40,main
+1,Contagion Clasp,Artifact,{2},"When Contagion Clasp enters the battlefield, put a -1/-1 counter on target creature.","{4}, {T}: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)","SOM-U, DDF-U",Uncommon,$0.30,main
+1,Conversion Chamber,Artifact,{3},"{2}, {T}: Exile target artifact card from a graveyard. Put a charge counter on Conversion Chamber.","{2}, {T}, Remove a charge counter from Conversion Chamber: Create a 3/3 colorless Golem artifact creature token.",NPH-U,Uncommon,$0.19,main
+1,Coretapper,Artifact Creature  - Myr,{2},1/1,{T}: Put a charge counter on target artifact.,Sacrifice Coretapper: Put two charge counters on target artifact.,DST-U,Uncommon,$1.37,main
+1,Corrupted Grafstone,Artifact,{2},Corrupted Grafstone enters the battlefield tapped.,{T}: Choose a color of a card in your graveyard. Add one mana of that color to your mana pool.,SOI-R,Rare,$0.32,main
+1,Courier's Capsule,Artifact,{1}{U},"{1}{U}, {T}, Sacrifice Courier's Capsule: Draw two cards.",ALA-C,Common,$0.16,main
+1,Crackdown Construct,Artifact Creature  - Construct,{4},2/2,"Whenever you activate an ability of an artifact or creature that isn't a mana ability, Crackdown Construct gets +1/+1 until end of turn.",AER-U,Uncommon,$0.23,main
+1,Cranial Archive,Artifact,{2},"{2}, Exile Cranial Archive: Target player shuffles his or her graveyard into his or her library. Draw a card.",KTK-U,Uncommon,$0.20,main
+1,Cranial Plating,Artifact  - Equipment,{2},Equipped creature gets +1/+0 for each artifact you control.,{B}{B}: Attach Cranial Plating to target creature you control.,Equip {1},"5DN-C, HOP-C, MM2-U, C16-U",Uncommon,$0.86,main
+1,Crook of Condemnation,Artifact,{2},"{1}, {T}: Exile target card from a graveyard.","{1}, Exile Crook of Condemnation: Exile all cards from all graveyards.",HOU-U,Uncommon,$0.20,main
+1,Cryptolith Fragment,Artifact,{3},Cryptolith Fragment enters the battlefield tapped.,{T}: Add one mana of any color to your mana pool. Each player loses 1 life.,"At the beginning of your upkeep, if each player has 10 or less life, transform Cryptolith Fragment.",[Front face. Transforms into Aurora of Emrakul.],EMN-U,Uncommon,$0.22,main
+1,Cultivator's Caravan,Artifact  - Vehicle,{3},5/5,{T}: Add one mana of any color to your mana pool.,Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.),KLD-R,Rare,$0.40,main
+1,Dagger of the Worthy,Artifact  - Equipment,{2},"Equipped creature gets +2/+0 and has afflict 1. (Whenever it becomes blocked, defending player loses 1 life.)",Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),HOU-U,Uncommon,$0.22,main
+1,Daredevil Dragster,Artifact  - Vehicle,{3},4/4,"At end of combat, if Daredevil Dragster attacked or blocked this combat, put a velocity counter on it. Then if it has two or more velocity counters on it, sacrifice it and draw two cards.",Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.),AER-U,Uncommon,$0.20,main
+1,Darksteel Citadel,Artifact Land,,{T}: Add {C} to your mana pool.,"DST-C, M15-U, C14-U, MM2-C, C16-U, DDF-C",Uncommon,$0.78,main
+1,Darksteel Sentinel,Artifact Creature  - Golem,{6},3/3,Flash (You may cast this spell any time you could cast an instant.),Vigilance,"Indestructible (Damage and effects that say ""destroy"" don't destroy this creature. If its toughness is 0 or less, it's still put into its owner's graveyard.)",SOM-U,Uncommon,$0.19,main
+1,Dimir Cluestone,Artifact,{3},{T}: Add {U} or {B} to your mana pool.,"{U}{B}, {T}, Sacrifice Dimir Cluestone: Draw a card.",DGM-C,Common,$0.15,main
+1,Dimir Keyrune,Artifact,{3},{T}: Add {U} or {B} to your mana pool.,{U}{B}: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn.,GTC-U,Uncommon,$0.20,main
+1,Dimir Signet,Artifact,{2},"{1}, {T}: Add {U}{B} to your mana pool.","RAV-C, ARC-C, CMD-C, MM3-U",Uncommon,$1.29,main
+1,Dispeller's Capsule,Artifact,{W},"{2}{W}, {T}, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.","ALA-C, MMA-C, C16-C",Common,$0.15,main
+1,Dreamstone Hedron,Artifact,{6},{T}: Add {C}{C}{C} to your mana pool.,"{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.","ROE-U, ARC-U, CMD-U, C14-U, C15-U, C17-U",Uncommon,$0.21,main
+1,Dross Golem,Artifact Creature  - Golem,{5},3/2,Affinity for Swamps (This spell costs {1} less to cast for each Swamp you control.),Fear (This creature can't be blocked except by artifact creatures and/or black creatures.),DST-C,Common,$0.15,main
+1,Dross Scorpion,Artifact Creature  - Scorpion,{4},3/1,"Whenever Dross Scorpion or another artifact creature dies, you may untap target artifact.",MRD-C,Common,$0.15,main
+1,Dusk Legion Dreadnought,Artifact  - Vehicle,{5},4/6,Vigilance,Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.),XLN-U,Uncommon,$0.20,main
+1,Eager Construct,Artifact Creature  - Construct,{2},2/2,"When Eager Construct enters the battlefield, each player may scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",KLD-C,Common,$0.12,main
+1,Elaborate Firecannon,Artifact,{2},Elaborate Firecannon doesn't untap during your untap step.,"{4}, {T}: Elaborate Firecannon deals 2 damage to target creature or player.","At the beginning of your upkeep, you may discard a card. If you do, untap Elaborate Firecannon.",XLN-U,Uncommon,$0.20,main
+1,Elixir of Immortality,Artifact,{1},"{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.","M11-U, M12-U, M13-U, M14-U, DDF-U",Uncommon,$0.42,main
+1,Energy Chamber,Artifact,{2},"At the beginning of your upkeep, choose one --",• Put a +1/+1 counter on target artifact creature.,• Put a charge counter on target noncreature artifact.,"5DN-U, DDF-U",Uncommon,$0.73,main
+1,Enigma Sphinx,Artifact Creature  - Sphinx,{4}{W}{U}{B},5/4,Flying,"When Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.","Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)","ARB-R, PC2-R, PCA-R",Rare,$0.51,main
+1,Eon Hub,Artifact,{5},Players skip their upkeep steps.,5DN-R,Rare,$0.86,main
+1,Epitaph Golem,Artifact Creature  - Golem,{5},3/5,{2}: Put target card from your graveyard on the bottom of your library.,SOI-U,Uncommon,$0.20,main
+1,Esper Sojourners,Artifact Creature  - Vedalken Wizard,{W}{U}{B},2/3,"When you cycle Esper Sojourners or it dies, you may tap or untap target permanent.","Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)",ARB-C,Common,$0.15,main
+1,Esperzoa,Artifact Creature  - Jellyfish,{2}{U},4/3,Flying,"At the beginning of your upkeep, return an artifact you control to its owner's hand.","CON-U, MMA-U, DDF-U",Uncommon,$0.20,main
+1,Etherium Astrolabe,Artifact,{2}{U},Flash,"{B}, {T}, Sacrifice an artifact: Draw a card.",ALA-U,Uncommon,$0.20,main
+1,Etherium Sculptor,Artifact Creature  - Vedalken Artificer,{1}{U},1/2,Artifact spells you cast cost {1} less to cast.,"ALA-C, MMA-C, C16-C",Common,$0.52,main
+1,Ethersworn Adjudicator,Artifact Creature  - Vedalken Knight,{4}{U},4/4,Flying,"{1}{W}{B}, {T}: Destroy target creature or enchantment.",{2}{U}: Untap Ethersworn Adjudicator.,"CON-M, C16-M",MythicRare,$0.91,main
+1,Ethersworn Canonist,Artifact Creature  - Human Cleric,{1}{W},2/2,Each player who has cast a nonartifact spell this turn can't cast additional nonartifact spells.,"ALA-R, MMA-R",Rare,$13.45,main
+1,Ethersworn Shieldmage,Artifact Creature  - Vedalken Wizard,{1}{W}{U},2/2,Flash,"When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.","ARB-C, ARC-C",Common,$0.16,main
+1,Etherwrought Page,Artifact,{1}{W}{U}{B},"At the beginning of your upkeep, choose one --",• You gain 2 life.,• Look at the top card of your library. You may put that card into your graveyard.,• Each opponent loses 1 life.,ARB-U,Uncommon,$0.23,main
+1,Everflowing Chalice,Artifact,{0},Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.),Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.,{T}: Add {C} to your mana pool for each charge counter on Everflowing Chalice.,"WWK-U, ARC-U, C14-U, MM2-U, C16-U, DDF-U",Uncommon,$0.50,main
+1,Executioner's Capsule,Artifact,{B},"{1}{B}, {T}, Sacrifice Executioner's Capsule: Destroy target nonblack creature.","ALA-C, MMA-U, C16-C",Common,$0.21,main
+1,Explorer's Scope,Artifact  - Equipment,{1},"Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.",Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),"ZEN-C, CNS-U, DDP-C",Common,$0.18,main
+1,Eye of Doom,Artifact,{4},"When Eye of Doom enters the battlefield, each player chooses a nonland permanent and puts a doom counter on it.","{2}, {T}, Sacrifice Eye of Doom: Destroy each permanent with a doom counter on it.",C13-R,Rare,$0.33,main
+1,Feldon's Cane,Artifact,{1},"{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.","AQ-U, CH-C, 5E-U, TSP-S",Special,$0.47,main
+1,Filigree Angel,Artifact Creature  - Angel,{5}{W}{W}{U},4/4,Flying,"When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.","ARB-R, C13-R, C16-R",Rare,$0.33,main
+1,Filigree Familiar,Artifact Creature  - Fox,{3},2/2,"When Filigree Familiar enters the battlefield, you gain 2 life.","When Filigree Familiar dies, draw a card.",KLD-U,Uncommon,$0.24,main
+1,Filigree Sages,Artifact Creature  - Vedalken Wizard,{3}{U},2/3,{2}{U}: Untap target artifact.,ALA-U,Uncommon,$0.21,main
+1,Fireshrieker,Artifact  - Equipment,{3},Equipped creature has double strike. (It deals both first-strike and regular combat damage.),Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),"MRD-U, M14-U, CNS-U",Uncommon,$0.21,main
+1,Flayer Husk,Artifact - Equipment,{1},"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)",Equipped creature gets +1/+1.,Equip {2},"MBS-C, PC2-C, MM2-C, PCA-C",Common,$0.18,main
+1,Foundry Inspector,Artifact Creature  - Construct,{3},3/2,Artifact spells you cast cost {1} less to cast.,KLD-U,Uncommon,$0.25,main
+1,Gate to the Aether,Artifact,{6},"At the beginning of each player's upkeep, that player reveals the top card of his or her library. If it's an artifact, creature, enchantment, or land card, the player may put it onto the battlefield.",MRD-R,Rare,$1.13,main
+1,Gauntlet of Power,Artifact,{5},"As Gauntlet of Power enters the battlefield, choose a color.",Creatures of the chosen color get +1/+1.,"Whenever a basic land is tapped for mana of the chosen color, its controller adds one mana of that color to his or her mana pool (in addition to the mana the land produces).","TSP-R, MPS_KLD-S",Rare,$18.99,main
+1,Ghostfire Blade,Artifact  - Equipment,{1},Equipped creature gets +2/+2.,Equip {3},Ghostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.,"KTK-R, FRF_UGIN-R",Rare,$0.45,main
+1,Ghoulcaller's Bell,Artifact,{1},{T}: Each player puts the top card of his or her library into his or her graveyard.,ISD-C,Common,$0.15,main
+1,Gilded Sentinel,Artifact Creature  - Golem,{4},3/3,XLN-C,Common,$0.13,main
+1,Glassdust Hulk,Artifact Creature  - Golem,{3}{W}{U},3/4,"Whenever another artifact enters the battlefield under your control, Glassdust Hulk gets +1/+1 until end of turn and can't be blocked this turn.","Cycling {(w/u)} ({(w/u)}, Discard this card: Draw a card.)","ARB-C, MM2-U",Uncommon,$0.22,main
+1,Glaze Fiend,Artifact Creature  - Illusion,{1}{B},0/1,Flying,"Whenever another artifact enters the battlefield under your control, Glaze Fiend gets +2/+2 until end of turn.",ALA-C,Common,$0.16,main
+1,Golem Artisan,Artifact Creature  - Golem,{5},3/3,{2}: Target artifact creature gets +1/+1 until end of turn.,"{2}: Target artifact creature gains your choice of flying, trample, or haste until end of turn.",SOM-U,Uncommon,$0.17,main
+1,Golem Foundry,Artifact,{3},"Whenever you cast an artifact spell, you may put a charge counter on Golem Foundry.",Remove three charge counters from Golem Foundry: Create a 3/3 colorless Golem artifact creature token.,SOM-C,Common,$0.17,main
+1,Gonti's Aether Heart,Legendary Artifact,{6},"Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get {E}{E} (two energy counters).","Pay {E}{E}{E}{E}{E}{E}{E}{E}, Exile Gonti's Aether Heart: Take an extra turn after this one.",AER-M,MythicRare,$0.69,main
+1,Gorgon Flail,Artifact  - Equipment,{2},Equipped creature gets +1/+1 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy that creature.),Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),M10-U,Uncommon,$0.55,main
+1,Grappling Hook,Artifact  - Equipment,{4},Equipped creature has double strike.,"Whenever equipped creature attacks, you may have target creature block it this turn if able.",Equip {4},"ZEN-R, C17-R",Rare,$0.30,main
+1,Grindclock,Artifact,{2},{T}: Put a charge counter on Grindclock.,"{T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of charge counters on Grindclock.","SOM-R, M15-R",Rare,$0.31,main
+1,Guardian Idol,Artifact,{2},Guardian Idol enters the battlefield tapped.,{T}: Add {C} to your mana pool.,{2}: Guardian Idol becomes a 2/2 Golem artifact creature until end of turn.,"5DN-U, IMA-C",Common,$0.14,main
+1,Guardian of the Ages,Artifact Creature  - Golem,{7},7/7,Defender (This creature can't attack.),"When a creature attacks you or a planeswalker you control, if Guardian of the Ages has defender, it loses defender and gains trample.",M14-R,Rare,$0.30,main
+1,Harvest Hand,Artifact Creature  - Scarecrow,{3},2/2,"When Harvest Hand dies, return it to the battlefield transformed under your control.",[Front face. Transforms into Scrounged Scythe.],SOI-U,Uncommon,$0.21,main
+1,Hedron Archive,Artifact,{4},{T}: Add {C}{C} to your mana pool.,"{2}, {T}, Sacrifice Hedron Archive: Draw two cards.","BFZ-U, C17-U",Uncommon,$0.55,main
+1,Hedron Blade,Artifact  - Equipment,{1},Equipped creature gets +1/+1.,"Whenever equipped creature becomes blocked by one or more colorless creatures, it gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),BFZ-C,Common,$0.14,main
+1,Heirloom Blade,Artifact  - Equipment,{3},Equipped creature gets +3/+1.,"Whenever equipped creature dies, you may reveal cards from the top of your library until you reveal a creature card that shares a creature type with it. Put that card into your hand and the rest on the bottom of your library in a random order.",Equip {1},C17-U,Uncommon,$0.44,main
+1,Helvault,Legendary Artifact,{3},"{1}, {T}: Exile target creature you control.","{7}, {T}: Exile target creature you don't control.","When Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control.","DKA-M, V16-M",MythicRare,$0.62,main
+1,Herbal Poultice,Artifact,{0},"{3}, Sacrifice Herbal Poultice: Regenerate target creature.",LRW-C,Common,$0.15,main
+1,Hewed Stone Retainers,Artifact Creature  - Golem,{3},4/4,Cast Hewed Stone Retainers only if you've cast another spell this turn.,"FRF-U, FRF_UGIN-U",Uncommon,$0.20,main
+1,Hierophant's Chalice,Artifact,{3},"When Hierophant's Chalice enters the battlefield, target opponent loses 1 life and you gain 1 life.",{T}: Add {C} to your mana pool.,XLN-C,Common,$0.13,main
+1,Ichor Wellspring,Artifact,{2},"When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card.","MBS-C, C14-C, C16-C",Common,$0.31,main
+1,Ichorclaw Myr,Artifact Creature  - Myr,{2},1/1,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),"Whenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn.",SOM-C,Common,$1.10,main
+1,Implement of Examination,Artifact,{3},"{U}, Sacrifice Implement of Examination: Draw a card.","When Implement of Examination is put into a graveyard from the battlefield, draw a card.",AER-C,Common,$0.13,main
+1,Implement of Malice,Artifact,{2},"{B}, Sacrifice Implement of Malice: Target player discards a card. Activate this ability only any time you could cast a sorcery.","When Implement of Malice is put into a graveyard from the battlefield, draw a card.",AER-C,Common,$0.13,main
+1,Isolation Cell,Artifact,{4},"Whenever an opponent casts a creature spell, that player loses 2 life unless he or she pays {2}.",NPH-U,Uncommon,$0.20,main
+1,Junk Diver,Artifact Creature  - Bird,{3},1/1,Flying,"When Junk Diver dies, return another target artifact card from your graveyard to your hand.","UD-R, C14-R",Rare,$0.80,main
+1,Key to the City,Artifact,{2},"{T}, Discard a card: Up to one target creature can't be blocked this turn.","Whenever Key to the City becomes untapped, you may pay {2}. If you do, draw a card.",KLD-R,Rare,$0.42,main
+1,Khalni Gem,Artifact,{4},"When Khalni Gem enters the battlefield, return two lands you control to their owner's hand.",{T}: Add two mana of any one color to your mana pool.,ZEN-U,Uncommon,$0.20,main
+1,Knowledge Pool,Artifact,{6},"Imprint -- When Knowledge Pool enters the battlefield, each player exiles the top three cards of his or her library.","Whenever a player casts a spell from his or her hand, that player exiles it. If the player does, he or she may cast another nonland card exiled with Knowledge Pool without paying that card's mana cost.",MBS-R,Rare,$0.36,main
+1,Leaden Myr,Artifact Creature  - Myr,{2},1/1,{T}: Add {B} to your mana pool.,"MRD-C, HOP-C, SOM-C",Common,$0.15,main
+1,Lens of Clarity,Artifact,{1},You may look at the top card of your library and at face-down creatures you don't control. (You may do this at any time.),KTK-C,Common,$0.14,main
+1,Lightning Coils,Artifact,{3},"Whenever a nontoken creature you control dies, put a charge counter on Lightning Coils.","At the beginning of your upkeep, if Lightning Coils has five or more charge counters on it, remove all of them from it and create that many 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.",MRD-R,Rare,$0.42,main
+1,Liquimetal Coating,Artifact,{2},{T}: Target permanent becomes an artifact in addition to its other types until end of turn.,"SOM-U, C14-U",Uncommon,$0.27,main
+1,Lodestone Bauble,Artifact,{0},"{1}, {T}, Sacrifice Lodestone Bauble: Put up to four target basic land cards from a player's graveyard on top of his or her library in any order. That player draws a card at the beginning of the next turn's upkeep.","AI-R, ME2-R",Rare,$2.21,main
+1,Lodestone Golem,Artifact Creature  - Golem,{4},5/3,Nonartifact spells cost {1} more to cast.,"WWK-R, ARC-R, MM2-R",Rare,$0.78,main
+1,Lodestone Myr,Artifact Creature  - Myr,{4},2/2,Trample,Tap an untapped artifact you control: Lodestone Myr gets +1/+1 until end of turn.,"MRD-R, HOP-R, MM2-R",Rare,$0.33,main
+1,Loreseeker's Stone,Artifact,{6},"{3}, {T}: Draw three cards. This ability costs {1} more to activate for each card in your hand.","C14-U, CMA-U",Uncommon,$0.18,main
+1,Magnifying Glass,Artifact,{3},{T}: Add {C} to your mana pool.,"{4}, {T}: Investigate. (Create a colorless Clue artifact token with ""{2}, Sacrifice this artifact: Draw a card."")",SOI-U,Uncommon,$0.21,main
+1,Mana Cylix,Artifact,{1},"{1}, {T}: Add one mana of any color to your mana pool.","PS-U, CON-C",Common,$0.15,main
+1,Marble Diamond,Artifact,{2},Marble Diamond enters the battlefield tapped.,{T}: Add {W} to your mana pool.,"MI-U, 6E-U, 7E-U, C14-U, DDC-U",Uncommon,$0.27,main
+1,Mask of Riddles,Artifact  - Equipment,{U}{B},Equipped creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.),"Whenever equipped creature deals combat damage to a player, you may draw a card.",Equip {2},ARB-U,Uncommon,$0.36,main
+1,Metallurgeon,Artifact Creature  - Human Artificer,{1}{W},1/2,"{W}, {T}: Regenerate target artifact.","ALA-U, ARC-U",Uncommon,$0.20,main
+1,Metalspinner's Puzzleknot,Artifact,{2},"When Metalspinner's Puzzleknot enters the battlefield, you draw a card and you lose 1 life.","{2}{B}, Sacrifice Metalspinner's Puzzleknot: You draw a card and you lose 1 life.",KLD-C,Common,$0.13,main
+1,Mind Stone,Artifact,{2},{T}: Add {C} to your mana pool.,"{1}, {T}, Sacrifice Mind Stone: Draw a card.","WL-C, 10E-U, C14-U, C15-U, IMA-C, DD2-U, DDP-U",Common,$0.24,main
+1,Mindcrank,Artifact,{2},"Whenever an opponent loses life, that player puts that many cards from the top of his or her library into his or her graveyard. (Damage dealt by sources without infect causes loss of life.)","NPH-U, IMA-U",Uncommon,$0.65,main
+1,Mirror Golem,Artifact Creature  - Golem,{6},3/4,"Imprint -- When Mirror Golem enters the battlefield, you may exile target card from a graveyard.","Mirror Golem has protection from each of the exiled card's card types. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)",MRD-U,Uncommon,$0.20,main
+1,Mirrorworks,Artifact,{5},"Whenever another nontoken artifact enters the battlefield under your control, you may pay {2}. If you do, create a token that's a copy of that artifact.",MBS-R,Rare,$2.06,main
+1,Mistvein Borderpost,Artifact,{1}{U}{B},You may pay {1} and return a basic land you control to its owner's hand rather than pay Mistvein Borderpost's mana cost.,Mistvein Borderpost enters the battlefield tapped.,{T}: Add {U} or {B} to your mana pool.,"ARB-C, ARC-C",Common,$0.20,main
+1,Moriok Replica,Artifact Creature  - Warrior,{3},2/2,"{1}{B}, Sacrifice Moriok Replica: You draw two cards and you lose 2 life.",SOM-C,Common,$0.14,main
+1,Mortarpod,Artifact - Equipment,{2},"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)","Equipped creature gets +0/+1 and has ""Sacrifice this creature: This creature deals 1 damage to target creature or player.""",Equip {2},"MBS-U, MM2-U",Uncommon,$0.21,main
+1,Murderer's Axe,Artifact  - Equipment,{4},Equipped creature gets +2/+2.,Equip--Discard a card.,SOI-U,Uncommon,$0.20,main
+1,Mycosynth Wellspring,Artifact,{2},"When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.","NPH-C, C14-C, C16-C",Common,$0.16,main
+1,Myr Galvanizer,Artifact Creature  - Myr,{3},2/2,Other Myr creatures you control get +1/+1.,"{1}, {T}: Untap each other Myr you control.",SOM-U,Uncommon,$0.47,main
+1,Myr Retriever,Artifact Creature  - Myr,{2},1/1,"When Myr Retriever dies, return another target artifact card from your graveyard to your hand.","MRD-U, MMA-U, C14-U, C16-U",Uncommon,$0.35,main
+1,Myr Sire,Artifact Creature - Myr,{2},1/1,"When Myr Sire dies, create a 1/1 colorless Myr artifact creature token.","MBS-C, C14-C",Common,$0.14,main
+1,Neurok Replica,Artifact Creature  - Wizard,{3},1/4,"{1}{U}, Sacrifice Neurok Replica: Return target creature to its owner's hand.",SOM-C,Common,$0.13,main
+1,Neurok Stealthsuit,Artifact  - Equipment,{2},Equipped creature has shroud. (It can't be the target of spells or abilities.),{U}{U}: Attach Neurok Stealthsuit to target creature you control.,Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),5DN-C,Common,$0.19,main
+1,Nihil Spellbomb,Artifact,{1},"{T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.","When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.","SOM-C, C13-C, C17-C",Common,$0.89,main
+1,Nuisance Engine,Artifact,{3},"{2}, {T}: Create a 0/1 colorless Pest artifact creature token.","MRD-U, HOP-U",Uncommon,$0.20,main
+1,Obelisk of Esper,Artifact,{3},"{T}: Add {W}, {U}, or {B} to your mana pool.","ALA-C, ARC-C, C13-C",Common,$0.15,main
+1,Onyx Goblet,Artifact,{2}{B},{T}: Target player loses 1 life.,ALA-C,Common,$0.16,main
+1,Orazca Relic,Artifact,{3},"Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)",{T}: Add {C} to your mana pool.,"{T}, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate this ability only if you have the city's blessing.",RIX-C,Common,$0.11,main
+1,Ornithopter,Artifact Creature  - Thopter,{0},0/2,Flying,"AQ-C, RV-U, 4E-U, 5E-U, 6E-U, MRD-U, 9ED-U, 10E-U, M10-U, M11-U, M15-C, MPS_KLD-S, AER-U",Uncommon,$0.22,main
+1,Orochi Hatchery,Artifact,{X}{X},Orochi Hatchery enters the battlefield with X charge counters on it.,"{5}, {T}: Create a 1/1 green Snake creature token for each charge counter on Orochi Hatchery.","CHK-R, C15-R",Rare,$0.36,main
+1,Orzhov Signet,Artifact,{2},"{1}, {T}: Add {W}{B} to your mana pool.","GPT-C, CMD-C, C15-C, C16-C, MM3-U, CMA-C, C17-U",Uncommon,$0.26,main
+1,Otherworld Atlas,Artifact,{4},{T}: Put a charge counter on Otherworld Atlas.,{T}: Each player draws a card for each charge counter on Otherworld Atlas.,AVR-R,Rare,$0.43,main
+1,Palladium Myr,Artifact Creature  - Myr,{3},2/2,{T}: Add {C}{C} to your mana pool.,"SOM-U, C14-U, IMA-U",Uncommon,$0.26,main
+1,Paradise Mantle,Artifact  - Equipment,{0},"Equipped creature has ""{T}: Add one mana of any color to your mana pool.""",Equip {1},"5DN-U, MMA-U",Uncommon,$1.93,main
+1,Parasitic Strix,Artifact Creature  - Bird,{2}{U},2/2,Flying,"When Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life.",CON-C,Common,$0.16,main
+1,Pennon Blade,Artifact  - Equipment,{3},Equipped creature gets +1/+1 for each creature you control.,Equip {4},ROE-U,Uncommon,$0.20,main
+1,Pentavus,Artifact Creature  - Construct,{7},0/0,Pentavus enters the battlefield with five +1/+1 counters on it.,"{1}, Remove a +1/+1 counter from Pentavus: Create a 1/1 colorless Pentavite artifact creature token with flying.","{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.","MRD-R, HOP-R, M12-R, C14-R, DDF-R",Rare,$0.31,main
+1,Pewter Golem,Artifact Creature  - Golem,{5},4/2,{1}{B}: Regenerate Pewter Golem.,MRD-C,Common,$0.14,main
+1,Phyrexian Walker,Artifact Creature  - Construct,{0},0/3,VI-C,Common,$0.35,main
+1,Pilgrim of the Fires,Artifact Creature  - Golem,{7},6/4,"First strike, trample",FRF-U,Uncommon,$0.21,main
+1,Pilgrim's Eye,Artifact Creature  - Thopter,{3},1/1,Flying,"When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.","WWK-C, C13-C, C14-C, BFZ-U, EMA-C, CMA-C, DDI-C",Common,$0.17,main
+1,Pili-Pala,Artifact Creature  - Scarecrow,{2},1/1,Flying,"{2}, {Q}: Add one mana of any color to your mana pool. ({Q} is the untap symbol.)",SHM-C,Common,$1.08,main
+1,Pillar of Origins,Artifact,{2},"As Pillar of Origins enters the battlefield, choose a creature type.",{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell of the chosen type.,XLN-U,Uncommon,$0.21,main
+1,Pirate's Cutlass,Artifact  - Equipment,{3},"When Pirate's Cutlass enters the battlefield, attach it to target Pirate you control.",Equipped creature gets +2/+1.,Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),XLN-C,Common,$0.14,main
+1,Porcelain Legionnaire,Artifact Creature  - Soldier,{2}{WP},3/1,({(w/p)} can be paid with either {W} or 2 life.),First strike,NPH-C,Common,$0.15,main
+1,Prophetic Prism,Artifact,{2},"When Prophetic Prism enters the battlefield, draw a card.","{1}, {T}: Add one mana of any color to your mana pool.","ROE-C, CMD-C, GTC-C, KLD-C",Common,$0.14,main
+1,Prototype Portal,Artifact,{4},"Imprint -- When Prototype Portal enters the battlefield, you may exile an artifact card from your hand.","{X}, {T}: Create a token that's a copy of the exiled card. X is the converted mana cost of that card.",SOM-R,Rare,$1.17,main
+1,Prowler's Helm,Artifact  - Equipment,{2},Equipped creature can't be blocked except by Walls.,Equip {2},THS-U,Uncommon,$0.18,main
+1,Prying Blade,Artifact  - Equipment,{1},Equipped creature gets +1/+0.,"Whenever equipped creature deals combat damage to a player, create a colorless Treasure artifact token with ""{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.""",Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),XLN-C,Common,$0.12,main
+1,Ramroller,Artifact Creature  - Juggernaut,{3},2/3,Ramroller attacks each combat if able.,Ramroller gets +2/+0 as long as you control another artifact.,ORI-U,Uncommon,$0.20,main
+1,Razor Golem,Artifact Creature  - Golem,{6},3/4,Affinity for Plains (This spell costs {1} less to cast for each Plains you control.),Vigilance,DST-C,Common,$0.16,main
+1,Reito Lantern,Artifact,{2},{3}: Put target card from a graveyard on the bottom of its owner's library.,"CHK-U, CNS-U",Uncommon,$0.24,main
+1,Renegade Map,Artifact,{1},Renegade Map enters the battlefield tapped.,"{T}, Sacrifice Renegade Map: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",AER-C,Common,$0.15,main
+1,Ring of Evos Isle,Artifact  - Equipment,{2},{2}: Equipped creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),"At the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's blue.",Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),M13-U,Uncommon,$0.20,main
+1,Rogue's Gloves,Artifact  - Equipment,{2},"Whenever equipped creature deals combat damage to a player, you may draw a card.",Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),M15-U,Uncommon,$0.20,main
+1,Runed Servitor,Artifact Creature  - Construct,{2},2/2,"When Runed Servitor dies, each player draws a card.","ROE-U, CNS-U, MM2-C, ORI-U, CN2-U, IMA-C, DDF-U, DDP-U",Common,$0.14,main
+1,Rusted Relic,Artifact,{4},Metalcraft -- Rusted Relic is a 5/5 Golem artifact creature as long as you control three or more artifacts.,"SOM-U, MM2-C",Common,$0.15,main
+1,Rusted Slasher,Artifact Creature - Horror,{4},4/1,Sacrifice an artifact: Regenerate Rusted Slasher.,MBS-C,Common,$0.13,main
+1,Salvage Slasher,Artifact Creature  - Human Rogue,{1}{B},1/1,Salvage Slasher gets +1/+0 for each artifact card in your graveyard.,CON-C,Common,$0.15,main
+1,Salvage Titan,Artifact Creature  - Golem,{4}{B}{B},6/4,You may sacrifice three artifacts rather than pay Salvage Titan's mana cost.,Exile three artifact cards from your graveyard: Return Salvage Titan from your graveyard to your hand.,ALA-R,Rare,$0.38,main
+1,Salvaging Station,Artifact,{6},{T}: Return target noncreature artifact card with converted mana cost 1 or less from your graveyard to the battlefield.,"Whenever a creature dies, you may untap Salvaging Station.",5DN-R,Rare,$0.63,main
+1,Scourglass,Artifact,{3}{W}{W},"{T}, Sacrifice Scourglass: Destroy all permanents except for artifacts and lands. Activate this ability only during your upkeep.",ALA-R,Rare,$3.06,main
+1,Scrap Trawler,Artifact Creature  - Construct,{3},3/2,"Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser converted mana cost.",AER-R,Rare,$0.37,main
+1,Scrapheap Scrounger,Artifact Creature  - Construct,{2},3/2,Scrapheap Scrounger can't block.,"{1}{B}, Exile another creature card from your graveyard: Return Scrapheap Scrounger from your graveyard to the battlefield.",KLD-R,Rare,$0.82,main
+1,Seer's Sundial,Artifact,{4},"Landfall -- Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card.","WWK-R, C13-R, C14-R, C15-R, CMA-R, DDP-R",Rare,$0.30,main
+1,Servo Schematic,Artifact,{2},"When Servo Schematic enters the battlefield or is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.",AER-U,Uncommon,$0.23,main
+1,Sharding Sphinx,Artifact Creature  - Sphinx,{4}{U}{U},4/4,Flying,"Whenever an artifact creature you control deals combat damage to a player, you may create a 1/1 blue Thopter artifact creature token with flying.","ALA-R, C13-R",Rare,$0.47,main
+1,Sharuum the Hegemon,Legendary Artifact Creature  - Sphinx,{3}{W}{U}{B},5/5,Flying,"When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.","ALA-M, C13-M, C16-M, V11-M",MythicRare,$0.62,main
+1,Shimmer Myr,Artifact Creature - Myr,{3},2/2,Flash,You may cast artifact spells as though they had flash.,"MBS-R, C16-R",Rare,$0.95,main
+1,Signal Pest,Artifact Creature - Pest,{1},0/1,"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)",Signal Pest can't be blocked except by creatures with flying or reach.,MBS-U,Uncommon,$0.79,main
+1,Silumgar Monument,Artifact,{3},{T}: Add {U} or {B} to your mana pool.,{4}{U}{B}: Silumgar Monument becomes a 4/4 blue and black Dragon artifact creature with flying until end of turn.,DTK-U,Uncommon,$0.22,main
+1,Silver Myr,Artifact Creature  - Myr,{2},1/1,{T}: Add {U} to your mana pool.,"MRD-C, HOP-C, SOM-C, DDF-C",Common,$0.16,main
+1,Silverskin Armor,Artifact - Equipment,{2},Equipped creature gets +1/+1 and is an artifact in addition to its other types.,Equip {2},MBS-U,Uncommon,$0.19,main
+1,Skeleton Key,Artifact  - Equipment,{1},Equipped creature has skulk. (It can't be blocked by creatures with greater power.),"Whenever equipped creature deals combat damage to a player, you may draw a card. If you do, discard a card.",Equip {2},SOI-U,Uncommon,$0.21,main
+1,Skeleton Shard,Artifact,{3},"{3}, {T} or {B}, {T}: Return target artifact creature card from your graveyard to your hand.","MRD-U, HOP-U",Uncommon,$0.21,main
+1,Skill Borrower,Artifact Creature  - Human Wizard,{2}{U},1/3,Play with the top card of your library revealed.,"As long as the top card of your library is an artifact or creature card, Skill Borrower has all activated abilities of that card. (If any of the abilities use that card's name, use this creature's name instead.)",ALA-R,Rare,$0.37,main
+1,Sky Diamond,Artifact,{2},Sky Diamond enters the battlefield tapped.,{T}: Add {U} to your mana pool.,"MI-U, 6E-U, 7E-U, C14-U",Uncommon,$0.38,main
+1,Sleek Schooner,Artifact  - Vehicle,{3},4/3,Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.),XLN-U,Uncommon,$0.19,main
+1,Smuggler's Copter,Artifact  - Vehicle,{2},3/3,Flying,"Whenever Smuggler's Copter attacks or blocks, you may draw a card. If you do, discard a card.",Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.),KLD-R,Rare,$2.21,main
+1,Snapsail Glider,Artifact Creature  - Construct,{3},2/2,Metalcraft -- Snapsail Glider has flying as long as you control three or more artifacts.,SOM-C,Common,$0.14,main
+1,Soul Separator,Artifact,{3},"{5}, {T}, Sacrifice Soul Separator: Exile target creature card from your graveyard. Create a token that's a copy of that card, except it's 1/1, it's a Spirit in addition to its other types, and it has flying. Create a black Zombie creature token with power equal to that card's power and toughness equal to that card's toughness.",EMN-R,Rare,$0.27,main
+1,Spawning Pit,Artifact,{2},Sacrifice a creature: Put a charge counter on Spawning Pit.,"{1}, Remove two charge counters from Spawning Pit: Create a 2/2 colorless Spawn artifact creature token.",DST-U,Uncommon,$0.90,main
+1,Spellbook,Artifact,{0},You have no maximum hand size.,"EX-U, 7E-U, 8ED-U, 9ED-U, 10E-U, M10-U",Uncommon,$0.78,main
+1,Sphinx Summoner,Artifact Creature  - Sphinx,{3}{U}{B},3/3,Flying,"When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library.","CON-R, C16-R",Rare,$0.42,main
+1,Spidersilk Net,Artifact  - Equipment,{0},Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.),Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),"ZEN-C, DTK-C",Common,$0.16,main
+1,Spine of Ish Sah,Artifact,{7},"When Spine of Ish Sah enters the battlefield, destroy target permanent.","When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner's hand.","MBS-R, C13-R, C14-R",Rare,$0.46,main
+1,Staff of Nin,Artifact,{6},"At the beginning of your upkeep, draw a card.",{T}: Staff of Nin deals 1 damage to target creature or player.,"M13-R, C15-R, C17-R",Rare,$0.44,main
+1,Sunset Pyramid,Artifact,{2},Sunset Pyramid enters the battlefield with three brick counters on it.,"{2}, {T}, Remove a brick counter from Sunset Pyramid: Draw a card.","{2}, {T}: Scry 1.",HOU-U,Uncommon,$0.20,main
+1,Swiftfoot Boots,Artifact  - Equipment,{2},Equipped creature has hexproof and haste.,Equip {1},"M12-U, C13-U, C14-U, C15-U, C16-U, CMA-U, C17-U",Uncommon,$1.22,main
+1,Sylvok Lifestaff,Artifact  - Equipment,{1},Equipped creature gets +1/+0.,"Whenever equipped creature dies, you gain 3 life.",Equip {1},SOM-C,Common,$0.15,main
+1,Tamiyo's Journal,Legendary Artifact,{5},"At the beginning of your upkeep, investigate. (Create a colorless Clue artifact token with ""{2}, Sacrifice this artifact: Draw a card."")","{T}, Sacrifice three Clues: Search your library for a card and put that card into your hand. Then shuffle your library.",SOI-R,Rare,$0.44,main
+1,Tapestry of the Ages,Artifact,{4},"{2}, {T}: Draw a card. Activate this ability only if you've cast a noncreature spell this turn.",DTK-U,Uncommon,$0.21,main
+1,Temple Bell,Artifact,{3},{T}: Each player draws a card.,"M11-R, C13-R, C16-R",Rare,$0.67,main
+1,Terrarion,Artifact,{1},Terrarion enters the battlefield tapped.,"{2}, {T}, Sacrifice Terrarion: Add two mana in any combination of colors to your mana pool.","When Terrarion is put into a graveyard from the battlefield, draw a card.","RAV-C, EMN-C",Common,$0.15,main
+1,Thopter Foundry,Artifact,{WB}{U},"{1}, Sacrifice a nontoken artifact: Create a 1/1 blue Thopter artifact creature token with flying. You gain 1 life.","ARB-U, C13-U, C16-U",Uncommon,$0.63,main
+1,Thoughtcutter Agent,Artifact Creature  - Human Rogue,{U}{B},1/1,"{U}{B}, {T}: Target player loses 1 life and reveals his or her hand.",ALA-U,Uncommon,$0.20,main
+1,Throwing Knife,Artifact  - Equipment,{2},Equipped creature gets +2/+0.,"Whenever equipped creature attacks, you may sacrifice Throwing Knife. If you do, Throwing Knife deals 2 damage to target creature or player.",Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),ORI-U,Uncommon,$0.21,main
+1,Tidehollow Strix,Artifact Creature  - Bird,{U}{B},2/1,Flying,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),"ALA-C, C13-C",Common,$0.18,main
+1,Tormod's Crypt,Artifact,{0},"{T}, Sacrifice Tormod's Crypt: Exile all cards from target player's graveyard.","DK-U, CH-C, TSP-S, M13-U, M15-U, C14-U",Uncommon,$0.34,main
+1,Trading Post,Artifact,{4},"{1}, {T}, Discard a card: You gain 4 life.","{1}, {T}, Pay 1 life: Create a 0/1 white Goat creature token.","{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.","{1}, {T}, Sacrifice an artifact: Draw a card.","M13-R, M14-R, C14-R, C16-R",Rare,$0.36,main
+1,Training Drone,Artifact Creature - Drone,{3},4/4,Training Drone can't attack or block unless it's equipped.,MBS-C,Common,$0.14,main
+1,Traveler's Amulet,Artifact,{1},"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.","ISD-C, THS-C, HOU-C, RIX-C",Common,$0.15,main
+1,Trigon of Thought,Artifact,{5},Trigon of Thought enters the battlefield with three charge counters on it.,"{U}{U}, {T}: Put a charge counter on Trigon of Thought.","{2}, {T}, Remove a charge counter from Trigon of Thought: Draw a card.",SOM-U,Uncommon,$0.19,main
+1,Ugin's Nexus,Legendary Artifact,{5},"If a player would begin an extra turn, that player skips that turn instead.","If Ugin's Nexus would be put into a graveyard from the battlefield, instead exile it and take an extra turn after this one.",KTK-M,MythicRare,$0.63,main
+1,Ur-Golem's Eye,Artifact,{4},{T}: Add {C}{C} to your mana pool.,"DST-C, 9ED-U, C14-U",Uncommon,$0.26,main
+1,Urza's Bauble,Artifact,{0},"{T}, Sacrifice Urza's Bauble: Look at a card at random in target player's hand. You draw a card at the beginning of the next turn's upkeep.","IA-U, 5E-U, MED-U",Uncommon,$1.58,main
+1,Vault of Whispers,Artifact Land,,{T}: Add {B} to your mana pool.,"MRD-C, HOP-C",Common,$0.47,main
+1,Vectis Agents,Artifact Creature  - Human Rogue,{3}{U}{B},4/3,{U}{B}: Vectis Agents gets -2/-0 until end of turn and can't be blocked this turn.,CON-C,Common,$0.15,main
+1,Vector Asp,Artifact Creature  - Snake,{1},1/1,{B}: Vector Asp gains infect until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),SOM-C,Common,$0.15,main
+1,Vedalken Outlander,Artifact Creature  - Vedalken Scout,{W}{U},2/2,Protection from red,CON-C,Common,$0.15,main
+1,Venser's Journal,Artifact,{5},You have no maximum hand size.,"At the beginning of your upkeep, you gain 1 life for each card in your hand.","SOM-R, C16-R",Rare,$4.46,main
+1,Vial of Poison,Artifact,{1},"{1}, Sacrifice Vial of Poison: Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",M14-U,Uncommon,$0.19,main
+1,Voltaic Construct,Artifact Creature  - Golem Construct,{4},2/2,{2}: Untap target artifact creature.,DST-U,Uncommon,$0.28,main
+1,Voltaic Key,Artifact,{1},"{1}, {T}: Untap target artifact.","US-U, M11-U, DDE-U",Uncommon,$0.82,main
+1,Walking Archive,Artifact Creature  - Golem,{3},1/1,Defender (This creature can't attack.),Walking Archive enters the battlefield with a +1/+1 counter on it.,"At the beginning of each player's upkeep, that player draws a card for each +1/+1 counter on Walking Archive.",{2}{W}{U}: Put a +1/+1 counter on Walking Archive.,DIS-R,Rare,$1.60,main
+1,Walking Atlas,Artifact Creature  - Construct,{2},1/1,{T}: You may put a land card from your hand onto the battlefield.,WWK-C,Common,$0.25,main
+1,Welding Jar,Artifact,{0},Sacrifice Welding Jar: Regenerate target artifact.,MRD-C,Common,$0.87,main
+1,Wild-Field Scarecrow,Artifact Creature  - Scarecrow,{3},1/4,Defender,"{2}, Sacrifice Wild-Field Scarecrow: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.",SOI-U,Uncommon,$0.21,main
+1,Workshop Assistant,Artifact Creature  - Construct,{3},1/2,"When Workshop Assistant dies, return another target artifact card from your graveyard to your hand.",KLD-C,Common,$0.12,main
+1,Worn Powerstone,Artifact,{3},Worn Powerstone enters the battlefield tapped.,{T}: Add {C}{C} to your mana pool.,"US-U, C14-U, C15-U, EMA-U, C17-U, DDE-U",Uncommon,$0.33,main
+
+Conspiracy
+------------
+
+Creature
+------------
+1,Aether Poisoner,Creature  - Human Artificer,{1}{B},1/1,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),"When Aether Poisoner enters the battlefield, you get {E}{E} (two energy counters).","Whenever Aether Poisoner attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.",AER-C,Common,$0.14,main
+1,Ambitious Aetherborn,Creature  - Aetherborn Artificer,{4}{B},4/3,"Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)",KLD-C,Common,$0.12,main
+1,Aphetto Exterminator,Creature  - Human Wizard,{2}{B},3/1,Morph {3}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),"When Aphetto Exterminator is turned face up, target creature gets -3/-3 until end of turn.",LGN-U,Uncommon,$0.20,main
+1,Artisan of Kozilek,Creature  - Eldrazi,{9},10/9,"When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.","Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)","ROE-U, ARC-U, CMD-U, C14-U, MM2-U, DDP-U",Uncommon,$0.32,main
+1,Aspiring Aeronaut,Creature  - Human Artificer,{3}{U},1/2,Flying (This creature can't be blocked except by creatures with flying or reach.),"When Aspiring Aeronaut enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.",ORI-C,Common,$0.14,main
+1,Bane of Bala Ged,Creature  - Eldrazi,{7},7/5,"Whenever Bane of Bala Ged attacks, defending player exiles two permanents he or she controls.",BFZ-U,Uncommon,$0.25,main
+1,Banewhip Punisher,Creature  - Human Warrior,{2}{B},2/2,"When Banewhip Punisher enters the battlefield, you may put a -1/-1 counter on target creature.","{B}, Sacrifice Banewhip Punisher: Destroy target creature that has a -1/-1 counter on it.",HOU-U,Uncommon,$0.20,main
+1,Blade Splicer,Creature  - Human Artificer,{2}{W},1/1,"When Blade Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.",Golem creatures you control have first strike.,"NPH-R, MM3-R",Rare,$1.39,main
+1,Broodstar,Creature  - Beast,{8}{U}{U},*/*,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.),Flying,Broodstar's power and toughness are each equal to the number of artifacts you control.,"MRD-R, HOP-R",Rare,$0.57,main
+1,Chief Engineer,Creature  - Vedalken Artificer,{1}{U},1/3,Artifact spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting an artifact spell pays for {1} or one mana of that creature's color.),"M15-R, C16-R",Rare,$0.50,main
+1,Cliffside Lookout,Creature  - Kor Scout Ally,{W},1/1,{4}{W}: Creatures you control get +1/+1 until end of turn.,BFZ-C,Common,$0.13,main
+1,Clone,Creature  - Shapeshifter,{3}{U},0/0,You may have Clone enter the battlefield as a copy of any creature on the battlefield.,"A-U, B-U, U-U, RV-U, ONS-R, 9ED-R, 10E-R, M10-R, M11-R, M13-R, M14-R, DDI-R",Rare,$0.38,main
+1,Contraband Kingpin,Creature  - Aetherborn Rogue,{U}{B},1/4,Lifelink,"Whenever an artifact enters the battlefield under your control, scry 1.",KLD-U,Uncommon,$0.21,main
+1,Corpse Connoisseur,Creature  - Zombie Wizard,{4}{B},3/3,"When Corpse Connoisseur enters the battlefield, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library.",Unearth {3}{B} ({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.),"ALA-U, ARC-U, MM3-U, DDK-U",Uncommon,$0.25,main
+1,Deadeye Harpooner,Creature  - Dwarf Warrior,{2}{W},2/2,"Revolt -- When Deadeye Harpooner enters the battlefield, if a permanent you controlled left the battlefield this turn, destroy target tapped creature an opponent controls.",AER-U,Uncommon,$0.20,main
+1,Deadeye Plunderers,Creature  - Human Pirate,{3}{U}{B},3/3,Deadeye Plunderers gets +1/+1 for each artifact you control.,"{2}{U}{B}: Create a colorless Treasure artifact token with ""{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.""",XLN-U,Uncommon,$0.19,main
+1,Deadeye Quartermaster,Creature  - Human Pirate,{3}{U},2/2,"When Deadeye Quartermaster enters the battlefield, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle your library.",XLN-U,Uncommon,$0.20,main
+1,Defiant Salvager,Creature  - Aetherborn Artificer,{2}{B},2/2,Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate this ability only any time you could cast a sorcery.,AER-C,Common,$0.13,main
+1,Desperate Castaways,Creature  - Human Pirate,{1}{B},2/3,Desperate Castaways can't attack unless you control an artifact.,XLN-C,Common,$0.13,main
+1,Dimir House Guard,Creature  - Skeleton,{3}{B},2/3,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.),Sacrifice a creature: Regenerate Dimir House Guard.,"Transmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV-C,Common,$0.21,main
+1,Dimir Infiltrator,Creature  - Spirit,{U}{B},1/3,Dimir Infiltrator can't be blocked.,"Transmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)","RAV-C, PC2-C, PCA-C",Common,$0.18,main
+1,Dire Fleet Hoarder,Creature  - Human Pirate,{1}{B},2/1,"When Dire Fleet Hoarder dies, create a colorless Treasure artifact token with ""{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.""",XLN-C,Common,$0.13,main
+1,Disciple of the Vault,Creature  - Human Cleric,{B},1/1,"Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life.",MRD-C,Common,$0.25,main
+1,Doomsday Specter,Creature  - Specter,{2}{U}{B},2/3,Flying,"When Doomsday Specter enters the battlefield, return a blue or black creature you control to its owner's hand.","Whenever Doomsday Specter deals combat damage to a player, look at that player's hand and choose a card from it. The player discards that card.",PS-R,Rare,$0.58,main
+1,Dukhara Scavenger,Creature  - Crocodile,{5}{B},4/6,"When Dukhara Scavenger enters the battlefield, you may put target artifact or creature card from your graveyard on top of your library.",KLD-C,Common,$0.11,main
+1,Dusk Feaster,Creature  - Vampire,{5}{B}{B},4/5,Delirium -- Dusk Feaster costs {2} less to cast if there are four or more card types among cards in your graveyard.,Flying,EMN-U,Uncommon,$0.19,main
+1,Duskmantle Guildmage,Creature  - Human Wizard,{U}{B},2/2,"{1}{U}{B}: Whenever a card is put into an opponent's graveyard from anywhere this turn, that player loses 1 life.",{2}{U}{B}: Target player puts the top two cards of his or her library into his or her graveyard.,GTC-U,Uncommon,$0.48,main
+1,Duskmantle Seer,Creature  - Vampire Wizard,{2}{U}{B},4/4,Flying,"At the beginning of your upkeep, each player reveals the top card of his or her library, loses life equal to that card's converted mana cost, then puts it into his or her hand.","GTC-M, CN2-R",MythicRare,$0.54,main
+1,Gnawing Zombie,Creature  - Zombie,{1}{B},1/3,"{1}{B}, Sacrifice a creature: Target player loses 1 life and you gain 1 life.","M14-U, MM3-C",Common,$0.15,main
+1,Guardian of the Guildpact,Creature  - Spirit,{3}{W},2/3,Protection from monocolored,DIS-C,Common,$0.34,main
+1,"Hanna, Ship's Navigator",Legendary Creature  - Human Artificer,{1}{W}{U},1/2,"{1}{W}{U}, {T}: Return target artifact or enchantment card from your graveyard to your hand.","IN-R, C16-R",Rare,$2.84,main
+1,Indomitable Archangel,Creature  - Angel,{2}{W}{W},4/4,Flying,Metalcraft -- Artifacts you control have shroud as long as you control three or more artifacts. (An artifact with shroud can't be the target of spells or abilities.),"SOM-M, MM2-R",Rare,$0.74,main
+1,Jace's Archivist,Creature  - Vedalken Wizard,{1}{U}{U},2/2,"{U}, {T}: Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.","M12-R, C13-R, C15-R",Rare,$0.90,main
+1,Kheru Bloodsucker,Creature  - Vampire,{2}{B},2/2,"Whenever a creature you control with toughness 4 or greater dies, each opponent loses 2 life and you gain 2 life.","{2}{B}, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker.",KTK-U,Uncommon,$0.21,main
+1,"Lorthos, the Tidemaker",Legendary Creature  - Octopus,{5}{U}{U}{U},8/8,"Whenever Lorthos, the Tidemaker attacks, you may pay {8}. If you do, tap up to eight target permanents. Those permanents don't untap during their controllers' next untap steps.","ZEN-M, C14-M",MythicRare,$1.08,main
+1,Master Splicer,Creature  - Human Artificer,{3}{W},1/1,"When Master Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.",Golem creatures you control get +1/+1.,"NPH-U, MM3-U",Uncommon,$0.20,main
+1,Mindshrieker,Creature  - Spirit Bird,{1}{U},1/1,Flying,"{2}: Target player puts the top card of his or her library into his or her graveyard. Mindshrieker gets +X/+X until end of turn, where X is that card's converted mana cost.",ISD-R,Rare,$0.47,main
+1,Mirran Spy,Creature - Drone,{2}{U},1/3,Flying,"Whenever you cast an artifact spell, you may untap target creature.",MBS-C,Common,$0.14,main
+1,Mistform Warchief,Creature  - Illusion,{2}{U},1/3,Creature spells you cast that share a creature type with Mistform Warchief cost {1} less to cast.,{T}: Mistform Warchief becomes the creature type of your choice until end of turn.,SCG-U,Uncommon,$0.25,main
+1,Mulldrifter,Creature  - Elemental,{4}{U},2/2,Flying,"When Mulldrifter enters the battlefield, draw two cards.","Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","LRW-C, CMD-C, MMA-U, C14-C, MM2-U, C15-U, DD2-C",Uncommon,$0.97,main
+1,Nim Shrieker,Creature  - Zombie,{3}{B},0/1,Flying,Nim Shrieker gets +1/+0 for each artifact you control.,MRD-C,Common,$0.15,main
+1,Notion Thief,Creature  - Human Rogue,{2}{U}{B},3/1,Flash,"If an opponent would draw a card except the first one he or she draws in each of his or her draw steps, instead that player skips that draw and you draw a card.",DGM-R,Rare,$0.75,main
+1,"Padeem, Consul of Innovation",Legendary Creature  - Vedalken Artificer,{3}{U},1/4,Artifacts you control have hexproof.,"At the beginning of your upkeep, if you control the artifact with the highest converted mana cost or tied for the highest converted mana cost, draw a card.",KLD-R,Rare,$0.32,main
+1,Painsmith,Creature  - Human Artificer,{1}{B},2/1,"Whenever you cast an artifact spell, you may have target creature get +2/+0 and gain deathtouch until end of turn.",SOM-U,Uncommon,$0.19,main
+1,Prosperous Pirates,Creature  - Human Pirate,{4}{U},3/4,"When Prosperous Pirates enters the battlefield, create two colorless Treasure artifact tokens with ""{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.""",XLN-C,Common,$0.13,main
+1,Riddlesmith,Creature  - Human Artificer,{1}{U},2/1,"Whenever you cast an artifact spell, you may draw a card. If you do, discard a card.",SOM-U,Uncommon,$0.20,main
+1,Ruthless Knave,Creature  - Orc Pirate,{2}{B},3/2,"{2}{B}, Sacrifice a creature: Create two colorless Treasure artifact tokens with ""{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.""",Sacrifice three Treasures: Draw a card.,XLN-U,Uncommon,$0.21,main
+1,Sage of Epityr,Creature  - Human Wizard,{U},1/1,"When Sage of Epityr enters the battlefield, look at the top four cards of your library, then put them back in any order.",TSP-C,Common,$0.35,main
+1,Scrapdiver Serpent,Creature  - Serpent,{5}{U}{U},5/5,Scrapdiver Serpent can't be blocked as long as defending player controls an artifact.,SOM-C,Common,$0.13,main
+1,Seekers' Squire,Creature  - Human Scout,{1}{B},1/2,"When Seekers' Squire enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",XLN-U,Uncommon,$0.20,main
+1,Sensor Splicer,Creature  - Artificer,{4}{W},1/1,"When Sensor Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.",Golem creatures you control have vigilance.,"NPH-C, MM3-C",Common,$0.14,main
+1,Shipwreck Looter,Creature  - Human Pirate,{1}{U},2/1,"Raid -- When Shipwreck Looter enters the battlefield, if you attacked with a creature this turn, you may draw a card. If you do, discard a card.",XLN-C,Common,$0.13,main
+1,Siren of the Silent Song,Creature  - Zombie Siren,{1}{U}{B},2/1,Flying,"Inspired -- Whenever Siren of the Silent Song becomes untapped, each opponent discards a card, then puts the top card of his or her library into his or her graveyard.",BNG-U,Uncommon,$0.26,main
+1,Skeletal Vampire,Creature  - Vampire Skeleton,{4}{B}{B},3/3,Flying,"When Skeletal Vampire enters the battlefield, create two 1/1 black Bat creature tokens with flying.","{3}{B}{B}, Sacrifice a Bat: Create two 1/1 black Bat creature tokens with flying.",Sacrifice a Bat: Regenerate Skeletal Vampire.,"GPT-R, MMA-R, C17-R, DDD-R",Rare,$0.33,main
+1,Skirsdag High Priest,Creature  - Human Cleric,{1}{B},1/2,"Morbid -- {T}, Tap two untapped creatures you control: Create a 5/5 black Demon creature token with flying. Activate this ability only if a creature died this turn.","ISD-R, C14-R",Rare,$0.46,main
+1,Spirit of the Labyrinth,Enchantment Creature  - Spirit,{1}{W},3/1,Each player can't draw more than one card each turn.,BNG-R,Rare,$0.54,main
+1,Striped Riverwinder,Creature  - Serpent,{6}{U},5/5,Hexproof (This creature can't be the target of spells or abilities your opponents control.),"Cycling {U} ({U}, Discard this card: Draw a card.)",HOU-C,Common,$0.15,main
+1,Subjugator Angel,Creature  - Angel,{4}{W}{W},4/3,Flying,"When Subjugator Angel enters the battlefield, tap all creatures your opponents control.",EMN-U,Uncommon,$0.23,main
+1,"Sydri, Galvanic Genius",Legendary Creature  - Human Artificer,{W}{U}{B},2/2,{U}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.,{W}{B}: Target artifact creature gains deathtouch and lifelink until end of turn.,"C13-M, C16-M",MythicRare,$0.61,main
+1,Syndicate Trafficker,Creature  - Aetherborn Rogue,{1}{B},3/1,"{1}, Sacrifice an artifact: Put a +1/+1 counter on Syndicate Trafficker. It gains indestructible until end of turn.",KLD-R,Rare,$0.32,main
+1,Synod Artificer,Creature  - Vedalken Artificer,{2}{U},1/2,"{X}, {T}: Tap X target noncreature artifacts.","{X}, {T}: Untap X target noncreature artifacts.",DST-R,Rare,$0.32,main
+1,Tempest Caller,Creature  - Merfolk Wizard,{2}{U}{U},2/3,"When Tempest Caller enters the battlefield, tap all creatures target opponent controls.",XLN-U,Uncommon,$0.19,main
+1,Terrus Wurm,Creature  - Zombie Wurm,{6}{B},5/5,"Scavenge {6}{B} ({6}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",RTR-C,Common,$0.14,main
+1,Thoughtpicker Witch,Creature  - Human Wizard,{B},1/1,"{1}, Sacrifice a creature: Look at the top two cards of target opponent's library, then exile one of them.",RAV-C,Common,$0.16,main
+1,Thraben Heretic,Creature  - Human Wizard,{1}{W},2/2,{T}: Exile target creature card from a graveyard.,"DKA-U, DDQ-U",Uncommon,$0.18,main
+1,Thrummingbird,Creature  - Bird Horror,{1}{U},1/1,Flying,"Whenever Thrummingbird deals combat damage to a player, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)","SOM-U, MM2-C, C16-U",Uncommon,$0.25,main
+1,Treasure Mage,Creature - Human Wizard,{2}{U},2/2,"When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal that card, and put it into your hand. If you do, shuffle your library.",MBS-U,Uncommon,$0.37,main
+1,Trinket Mage,Creature  - Human Wizard,{2}{U},2/2,"When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.","5DN-C, SOM-U, C16-C, DDF-C",Common,$0.33,main
+1,Trophy Mage,Creature  - Human Wizard,{2}{U},2/2,"When Trophy Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 3, reveal it, put it into your hand, then shuffle your library.",AER-U,Uncommon,$0.27,main
+1,Vedalken Archmage,Creature  - Vedalken Wizard,{2}{U}{U},0/2,"Whenever you cast an artifact spell, draw a card.",MRD-R,Rare,$2.40,main
+1,Vedalken Certarch,Creature  - Vedalken Wizard,{U},1/1,"Metalcraft -- {T}: Tap target artifact, creature, or land. Activate this ability only if you control three or more artifacts.",SOM-C,Common,$0.14,main
+1,Vedalken Engineer,Creature  - Vedalken Artificer,{1}{U},1/1,{T}: Add two mana of any one color to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.,"DST-C, HOP-C, C16-C",Common,$0.20,main
+1,Viscera Seer,Creature  - Vampire Wizard,{B},1/1,Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),"M11-C, C13-C",Common,$0.97,main
+1,Voracious Null,Creature  - Zombie,{2}{B},2/2,"{1}{B}, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate this ability only any time you could cast a sorcery.",BFZ-C,Common,$0.13,main
+1,Wanted Scoundrels,Creature  - Human Pirate,{1}{B},4/3,"When Wanted Scoundrels dies, target opponent creates two colorless Treasure artifact tokens with ""{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.""",XLN-U,Uncommon,$0.20,main
+1,Warchanter of Mogis,Creature  - Minotaur Shaman,{3}{B}{B},3/3,"Inspired -- Whenever Warchanter of Mogis becomes untapped, target creature you control gains intimidate until end of turn. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)",BNG-C,Common,$0.15,main
+1,Whirler Rogue,Creature  - Human Rogue Artificer,{2}{U}{U},2/2,"When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.",Tap two untapped artifacts you control: Target creature can't be blocked this turn.,ORI-U,Uncommon,$0.30,main
+1,Wing Splicer,Creature  - Human Artificer,{3}{U},1/1,"When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.",Golem creatures you control have flying.,"NPH-U, MM3-U",Uncommon,$0.24,main
+1,Wretched Gryff,Creature  - Eldrazi Hippogriff,{7},3/4,Emerge {5}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.),"When you cast Wretched Gryff, draw a card.",Flying,EMN-C,Common,$0.15,main
+
+Enchantment
+------------
+1,Arrest,Enchantment  - Aura,{2}{W},Enchant creature,"Enchanted creature can't attack or block, and its activated abilities can't be activated.","MM-U, MRD-C, SOM-C, RTR-U, MM2-C",Common,$0.15,main
+1,Behind the Scenes,Enchantment,{2}{B},Creatures you control have skulk. (They can't be blocked by creatures with greater power.),{4}{W}: Creatures you control get +1/+1 until end of turn.,SOI-U,Uncommon,$0.22,main
+1,Cradle of Vitality,Enchantment,{3}{W},"Whenever you gain life, you may pay {1}{W}. If you do, put a +1/+1 counter on target creature for each 1 life you gained.","ALA-R, C13-R",Rare,$0.72,main
+1,Curse of Exhaustion,Enchantment  - Aura Curse,{2}{W}{W},Enchant player,Enchanted player can't cast more than one spell each turn.,DKA-U,Uncommon,$0.25,main
+1,Deadly Wanderings,Enchantment,{3}{B}{B},"As long as you control exactly one creature, that creature gets +2/+0 and has deathtouch and lifelink.",DTK-U,Uncommon,$0.21,main
+1,Detention Sphere,Enchantment,{1}{W}{U},"When Detention Sphere enters the battlefield, you may exile target nonland permanent not named Detention Sphere and all other permanents with the same name as that permanent.","When Detention Sphere leaves the battlefield, return the exiled cards to the battlefield under their owner's control.",RTR-R,Rare,$1.71,main
+1,Echoes of the Kin Tree,Enchantment,{1}{W},{2}{W}: Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.),DTK-U,Uncommon,$0.21,main
+1,Efficient Construction,Enchantment,{3}{U},"Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.",AER-U,Uncommon,$0.20,main
+1,Ensoul Artifact,Enchantment  - Aura,{1}{U},Enchant artifact,Enchanted artifact is a creature with base power and toughness 5/5 in addition to its other types.,M15-U,Uncommon,$0.65,main
+1,Equipoise,Enchantment,{2}{W},"At the beginning of your upkeep, for each land target player controls in excess of the number you control, choose a land he or she controls, then the chosen permanents phase out. Repeat this process for artifacts and creatures. (While they're phased out, they're treated as though they don't exist. They phase in before that player untaps during his or her next untap step.)",VI-R,Rare,$1.09,main
+1,Freed from the Real,Enchantment  - Aura,{2}{U},Enchant creature,{U}: Tap enchanted creature.,{U}: Untap enchanted creature.,SOK-C,Common,$0.87,main
+1,Hidden Stockpile,Enchantment,{W}{B},"Revolt -- At the beginning of your end step, if a permanent you controlled left the battlefield this turn, create a 1/1 colorless Servo artifact creature token.","{1}, Sacrifice a creature: Scry 1.",AER-U,Uncommon,$0.31,main
+1,Infernal Scarring,Enchantment  - Aura,{1}{B},Enchant creature,"Enchanted creature gets +2/+0 and has ""When this creature dies, draw a card.""",ORI-C,Common,$0.15,main
+1,Kagemaro's Clutch,Enchantment  - Aura,{3}{B},Enchant creature,"Enchanted creature gets -X/-X, where X is the number of cards in your hand.",SOK-C,Common,$0.15,main
+1,March of the Machines,Enchantment,{3}{U},Each noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. (Equipment that's a creature can't equip a creature.),"MRD-R, 10E-R, ARC-R",Rare,$0.61,main
+1,Mark of the Vampire,Enchantment  - Aura,{3}{B},Enchant creature,Enchanted creature gets +2/+2 and has lifelink.,"M13-C, M14-C, XLN-C, DDK-C",Common,$0.14,main
+1,Military Intelligence,Enchantment,{1}{U},"Whenever you attack with two or more creatures, draw a card.",M15-U,Uncommon,$0.21,main
+1,Molting Snakeskin,Enchantment  - Aura,{B},Enchant creature,"Enchanted creature gets +2/+0 and has ""{2}{B}: Regenerate this creature.""",KTK-C,Common,$0.14,main
+1,Null Profusion,Enchantment,{4}{B}{B},Skip your draw step.,"Whenever you play a card, draw a card.",Your maximum hand size is two.,PLC-R,Rare,$0.35,main
+1,Ordeal of Erebos,Enchantment  - Aura,{1}{B},Enchant creature,"Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos.","When you sacrifice Ordeal of Erebos, target player discards two cards.",THS-U,Uncommon,$0.20,main
+1,Ordeal of Heliod,Enchantment  - Aura,{1}{W},Enchant creature,"Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod.","When you sacrifice Ordeal of Heliod, you gain 10 life.",THS-U,Uncommon,$0.22,main
+1,Ordeal of Thassa,Enchantment  - Aura,{1}{U},Enchant creature,"Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Thassa.","When you sacrifice Ordeal of Thassa, draw two cards.",THS-U,Uncommon,$0.20,main
+1,Soul Stair Expedition,Enchantment,{B},"Landfall -- Whenever a land enters the battlefield under your control, you may put a quest counter on Soul Stair Expedition.",Remove three quest counters from Soul Stair Expedition and sacrifice it: Return up to two target creature cards from your graveyard to your hand.,ZEN-C,Common,$0.15,main
+1,Stasis Cocoon,Enchantment  - Aura,{1}{W},Enchant artifact,"Enchanted artifact can't attack or block, and its activated abilities can't be activated.",5DN-C,Common,$0.15,main
+1,Stasis Snare,Enchantment,{1}{W}{W},Flash (You may cast this spell any time you could cast an instant.),"When Stasis Snare enters the battlefield, exile target creature an opponent controls until Stasis Snare leaves the battlefield. (That creature returns under its owner's control.)",BFZ-U,Uncommon,$0.40,main
+1,Strange Augmentation,Enchantment  - Aura,{B},Enchant creature,Enchanted creature gets +1/+1.,Delirium -- Enchanted creature gets an additional +2/+2 as long as there are four or more card types among cards in your graveyard.,EMN-C,Common,$0.14,main
+1,Temporal Isolation,Enchantment  - Aura,{1}{W},Flash (You may cast this spell any time you could cast an instant.),Enchant creature,Enchanted creature has shadow. (It can block or be blocked by only creatures with shadow.),Prevent all damage that would be dealt by enchanted creature.,TSP-C,Common,$0.20,main
+1,Tezzeret's Touch,Enchantment  - Aura,{1}{U}{B},Enchant artifact,Enchanted artifact is a creature with base power and toughness 5/5 in addition to its other types.,"When enchanted artifact is put into a graveyard, return that card to its owner's hand.",AER-U,Uncommon,$0.23,main
+1,Thopter Arrest,Enchantment,{2}{W},"When Thopter Arrest enters the battlefield, exile target artifact or creature an opponent controls until Thopter Arrest leaves the battlefield.",AER-U,Uncommon,$0.20,main
+1,Thopter Spy Network,Enchantment,{2}{U}{U},"At the beginning of your upkeep, if you control an artifact, create a 1/1 colorless Thopter artifact creature token with flying.","Whenever one or more artifact creatures you control deal combat damage to a player, draw a card.",ORI-R,Rare,$0.85,main
+1,Triskaidekaphobia,Enchantment,{3}{B},"At the beginning of your upkeep, choose one --","• Each player with exactly 13 life loses the game, then each player gains 1 life.","• Each player with exactly 13 life loses the game, then each player loses 1 life.",SOI-R,Rare,$0.33,main
+1,Underhanded Designs,Enchantment,{1}{B},"Whenever an artifact enters the battlefield under your control, you may pay {1}. If you do, each opponent loses 1 life and you gain 1 life.","{1}{B}, Sacrifice Underhanded Designs: Destroy target creature. Activate this ability only if you control two or more artifacts.",KLD-U,Uncommon,$0.20,main
+1,Underworld Connections,Enchantment  - Aura,{1}{B}{B},Enchant land,"Enchanted land has ""{T}, Pay 1 life: Draw a card.""","RTR-R, C15-R, C17-R, DDM-R",Rare,$0.34,main
+1,Vampiric Rites,Enchantment,{B},"{1}{B}, Sacrifice a creature: You gain 1 life and draw a card.",BFZ-U,Uncommon,$0.21,main
+1,Vessel of Malignity,Enchantment,{1}{B},"{1}{B}, Sacrifice Vessel of Malignity: Target opponent exiles two cards from his or her hand. Activate this ability only any time you could cast a sorcery.",SOI-C,Common,$0.14,main
+1,Visions of Brutality,Enchantment  - Aura,{1}{B},Devoid (This card has no color.),Enchant creature,Enchanted creature can't block.,"Whenever enchanted creature deals damage, its controller loses that much life.",OGW-U,Uncommon,$0.21,main
+1,Volrath's Curse,Enchantment  - Aura,{1}{U},Enchant creature,"Enchanted creature can't attack or block, and its activated abilities can't be activated. That creature's controller may sacrifice a permanent for that player to ignore this effect until end of turn.",{1}{U}: Return Volrath's Curse to its owner's hand.,TE-C,Common,$0.16,main
+
+Instant
+------------
+1,Acolyte's Reward,Instant,{1}{W},"Prevent the next X damage that would be dealt to target creature this turn, where X is your devotion to white. If damage is prevented this way, Acolyte's Reward deals that much damage to target creature or player. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)",BNG-U,Uncommon,$0.20,main
+1,Altar's Reap,Instant,{1}{B},"As an additional cost to cast Altar's Reap, sacrifice a creature.",Draw two cards.,"ISD-C, M14-C, CNS-C, BFZ-C, C15-C, CN2-C, CMA-C, DDR-C",Common,$0.15,main
+1,Arcane Denial,Instant,{1}{U},Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.,You draw a card at the beginning of the next turn's upkeep.,"AI-C, C13-C, C16-C, CMA-C, MED-C",Common,$2.38,main
+1,Blessed Alliance,Instant,{1}{W},Escalate {2} (Pay this cost for each mode chosen beyond the first.),Choose one or more --,• Target player gains 4 life.,• Untap up to two target creatures.,• Target opponent sacrifices an attacking creature.,EMN-U,Uncommon,$1.33,main
+1,Blue Sun's Zenith,Instant,{X}{U}{U}{U},Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's library.,"MBS-R, C13-R, C15-R, CMA-R",Rare,$0.96,main
+1,Borrowed Malevolence,Instant,{B},Escalate {2} (Pay this cost for each mode chosen beyond the first.),Choose one or both --,• Target creature gets +1/+1 until end of turn.,• Target creature gets -1/-1 until end of turn.,EMN-C,Common,$0.14,main
+1,Cancel,Instant,{1}{U}{U},Counter target spell.,"TSP-C, 10E-C, ALA-C, M10-C, ZEN-C, M11-C, M12-C, PC2-C, RTR-C, M14-C, M15-C, KTK-C, PCA-C, AKH-C, XLN-C",Common,$0.14,main
+1,Coat with Venom,Instant,{B},Target creature gets +1/+2 and gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.),"DTK-C, E02-C",Common,$0.15,main
+1,Corpse Churn,Instant,{1}{B},"Put the top three cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.",OGW-C,Common,$0.14,main
+1,Costly Plunder,Instant,{1}{B},"As an additional cost to cast Costly Plunder, sacrifice an artifact or creature.",Draw two cards.,XLN-C,Common,$0.13,main
+1,Countervailing Winds,Instant,{2}{U},Counter target spell unless its controller pays {1} for each card in your graveyard.,"Cycling {2} ({2}, Discard this card: Draw a card.)",HOU-C,Common,$0.15,main
+1,Dark Dabbling,Instant,{2}{B},"Regenerate target creature. Draw a card. (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)","Spell mastery -- If there are two or more instant and/or sorcery cards in your graveyard, also regenerate each other creature you control.",ORI-C,Common,$0.15,main
+1,Depths of Desire,Instant,{2}{U},"Return target creature to its owner's hand. Create a colorless Treasure artifact token with ""{T}, Sacrifice this artifact: Add one mana of any color to your mana pool.""",XLN-C,Common,$0.13,main
+1,Dispatch,Instant,{W},Tap target creature.,"Metalcraft -- If you control three or more artifacts, exile that creature.","NPH-U, MM2-U",Uncommon,$1.01,main
+1,Dispel,Instant,{U},Counter target instant spell.,"WWK-C, RTR-C, BFZ-C",Common,$0.20,main
+1,Dive Down,Instant,{U},Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),XLN-C,Common,$0.14,main
+1,Dramatic Reversal,Instant,{1}{U},Untap all nonland permanents you control.,KLD-C,Common,$0.17,main
+1,Enlightened Tutor,Instant,{W},"Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.","MI-U, 6E-U, EMA-R",Rare,$13.88,main
+1,Erase,Instant,{W},Exile target enchantment.,"UL-C, M13-C, KTK-C",Common,$0.14,main
+1,Faith's Reward,Instant,{3}{W},Return to the battlefield all permanent cards in your graveyard that were put there from the battlefield this turn.,"M13-R, CN2-R",Rare,$0.53,main
+1,Feat of Resistance,Instant,{1}{W},Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn.,KTK-C,Common,$0.15,main
+1,Ghostly Flicker,Instant,{2}{U},"Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control.","AVR-C, MM3-C",Common,$0.20,main
+1,Gift of Tusks,Instant,{U},"Until end of turn, target creature loses all abilities and becomes a green Elephant with base power and toughness 3/3.",OGW-U,Uncommon,$0.20,main
+1,Grasp of Darkness,Instant,{B}{B},Target creature gets -4/-4 until end of turn.,"SOM-C, OGW-U",Uncommon,$0.52,main
+1,Gravepurge,Instant,{2}{B},Put any number of target creature cards from your graveyard on top of your library.,Draw a card.,"DKA-C, DTK-C",Common,$0.15,main
+1,Grisly Spectacle,Instant,{2}{B}{B},Destroy target nonartifact creature. Its controller puts a number of cards equal to that creature's power from the top of his or her library into his or her graveyard.,"GTC-C, MM3-C, IMA-C, DDM-C",Common,$0.04,main
+1,Imaginary Threats,Instant,{2}{U}{U},"Creatures target opponent controls attack this turn if able. During that player's next untap step, creatures he or she controls don't untap.","Cycling {2} ({2}, Discard this card: Draw a card.)",HOU-U,Uncommon,$0.21,main
+1,Induce Despair,Instant,{2}{B},"As an additional cost to cast Induce Despair, reveal a creature card from your hand.","Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.","ROE-C, DDP-C",Common,$0.15,main
+1,Just the Wind,Instant,{1}{U},Return target creature to its owner's hand.,"Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",SOI-C,Common,$0.15,main
+1,Launch Party,Instant,{3}{B},"As an additional cost to cast Launch Party, sacrifice a creature.",Destroy target creature. Its controller loses 2 life.,RTR-C,Common,$0.14,main
+1,Mana Tithe,Instant,{W},Counter target spell unless its controller pays {1}.,PLC-C,Common,$1.21,main
+1,Mortify,Instant,{1}{W}{B},Destroy target creature or enchantment.,"GPT-U, CMD-U, CNS-U, C16-U, CMA-U, C17-U, E02-U, DDK-U",Uncommon,$0.50,main
+1,Necrobite,Instant,{2}{B},"Target creature gains deathtouch until end of turn. Regenerate it. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)","AVR-C, BNG-C, M15-C",Common,$0.15,main
+1,Negate,Instant,{1}{U},Counter target noncreature spell.,"MOR-C, M10-C, M11-C, M12-C, M13-C, M14-C, M15-C, DTK-C, ORI-C, OGW-C, CN2-C, AER-C, RIX-C",Common,$0.15,main
+1,Opt,Instant,{U},Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),Draw a card.,"IN-C, XLN-C",Common,$0.69,main
+1,Otherworldly Journey,Instant  - Arcane,{1}{W},"Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.","CHK-U, MMA-C, MM2-C, DDC-U",Common,$0.16,main
+1,Pitfall Trap,Instant  - Trap,{2}{W},"If exactly one creature is attacking, you may pay {W} rather than pay Pitfall Trap's mana cost.",Destroy target attacking creature without flying.,"ZEN-U, MM3-C",Common,$0.14,main
+1,Psychic Spiral,Instant,{4}{U},Shuffle all cards from your graveyard into your library. Target player puts that many cards from the top of his or her library into his or her graveyard.,RTR-U,Uncommon,$0.20,main
+1,Psychic Strike,Instant,{1}{U}{B},Counter target spell. Its controller puts the top two cards of his or her library into his or her graveyard.,GTC-C,Common,$0.15,main
+1,Pull from Tomorrow,Instant,{X}{U}{U},"Draw X cards, then discard a card.",AKH-R,Rare,$0.85,main
+1,Reality Shift,Instant,{1}{U},"Exile target creature. Its controller manifests the top card of his or her library. (That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)","FRF-U, FRF_UGIN-U, C17-U",Uncommon,$0.26,main
+1,Refocus,Instant,{1}{U},Untap target creature.,Draw a card.,FRF-C,Common,$0.14,main
+1,Rescue from the Underworld,Instant,{4}{B},"As an additional cost to cast Rescue from the Underworld, sacrifice a creature.",Choose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep. Exile Rescue from the Underworld.,THS-U,Uncommon,$0.20,main
+1,Retraction Helix,Instant,{U},"Until end of turn, target creature gains ""{T}: Return target nonland permanent to its owner's hand.""",BNG-C,Common,$0.16,main
+1,Rewind,Instant,{2}{U}{U},Counter target spell. Untap up to four lands.,"US-C, 8ED-U, 9ED-U, M13-U, MM3-C",Common,$0.17,main
+1,Send to Sleep,Instant,{1}{U},Tap up to two target creatures.,"Spell mastery -- If there are two or more instant and/or sorcery cards in your graveyard, those creatures don't untap during their controllers' next untap steps.",ORI-C,Common,$0.16,main
+1,Skeletal Scrying,Instant,{X}{B},"As an additional cost to cast Skeletal Scrying, exile X cards from your graveyard.",You draw X cards and you lose X life.,"OD-U, CNS-U, C14-U, C17-U",Uncommon,$0.22,main
+1,Smother,Instant,{1}{B},Destroy target creature with converted mana cost 3 or less. It can't be regenerated.,"ONS-U, WWK-U, DDP-U",Uncommon,$0.26,main
+1,Spell Pierce,Instant,{U},Counter target noncreature spell unless its controller pays {2}.,"ZEN-C, MM3-C, MPS_AKH-S, XLN-C",Common,$0.20,main
+1,Stand Firm,Instant,{W},"Target creature gets +1/+1 until end of turn. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","5DN-C, DDL-C",Common,$0.14,main
+1,Statute of Denial,Instant,{2}{U}{U},"Counter target spell. If you control a blue creature, draw a card, then discard a card.",M15-C,Common,$0.15,main
+1,Steel Sabotage,Instant,{U},Choose one --,• Counter target artifact spell.,• Return target artifact to its owner's hand.,MBS-C,Common,$0.14,main
+1,Stoic Rebuttal,Instant,{1}{U}{U},Metalcraft -- Stoic Rebuttal costs {1} less to cast if you control three or more artifacts.,Counter target spell.,"SOM-C, MM2-C",Common,$0.16,main
+1,Tidy Conclusion,Instant,{3}{B}{B},Destroy target creature. You gain 1 life for each artifact you control.,KLD-C,Common,$0.12,main
+1,To Arms!,Instant,{1}{W},Untap all creatures you control.,Draw a card.,GPT-U,Uncommon,$0.33,main
+1,Touch of Moonglove,Instant,{B},"Target creature you control gets +1/+0 and gains deathtouch until end of turn. Whenever a creature dealt damage by that creature dies this turn, its controller loses 2 life. (Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)",ORI-C,Common,$0.15,main
+1,Tragic Lesson,Instant,{2}{U},Draw two cards. Then discard a card unless you return a land you control to its owner's hand.,HOU-C,Common,$0.15,main
+1,Turn Aside,Instant,{U},Counter target spell that targets a permanent you control.,"SOM-C, EMN-C",Common,$0.18,main
+1,Undying Evil,Instant,{B},"Target creature gains undying until end of turn. (When it dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",DKA-C,Common,$0.22,main
+1,Void Shatter,Instant,{1}{U}{U},Devoid (This card has no color.),"Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",OGW-U,Uncommon,$0.44,main
+
+Land
+------------
+1,Arcane Sanctum,Land,,"{T}: Add {W}, {U}, or {B} to your mana pool.","ALA-U, C13-U, C16-U, MM3-U, C17-U",Uncommon,$0.45,main
+1,Azorius Chancery,Land,,"When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.",{T}: Add {W}{U} to your mana pool.,"DIS-C, CMD-C, C13-C, MM2-U, C16-U, CMA-C, IMA-U, DDI-C",Uncommon,$0.21,main
+1,Barren Moor,Land,,{T}: Add {B} to your mana pool.,"Cycling {B} ({B}, Discard this card: Draw a card.)","ONS-C, ARC-C, CMD-C, C13-C, C14-C, C15-C, CMA-C, VMA-C, DDC-C, DDJ-C",Common,$0.27,main
+1,Bojuka Bog,Land,,"When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.",{T}: Add {B} to your mana pool.,"WWK-C, CMD-C, C13-C, C14-C, CMA-C, C17-C",Common,$1.21,main
+1,Dimir Aqueduct,Land,,"When Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.",{T}: Add {U}{B} to your mana pool.,"RAV-C, CMD-C, PC2-C, MM2-U, C16-U, PCA-C, C17-U, IMA-U",Uncommon,$0.34,main
+1,Dismal Backwater,Land,,"When Dismal Backwater enters the battlefield, you gain 1 life.",{T}: Add {U} or {B} to your mana pool.,"KTK-C, FRF-C, EMA-C, C16-C, C17-C, DDQ-C",Common,$0.15,main
+1,Dread Statuary,Land,,{4}: Dread Statuary becomes a 4/2 Golem artifact creature until end of turn. It's still a land.,"WWK-U, CN2-U, DDM-U",Uncommon,$0.20,main
+1,Encroaching Wastes,Land,,"{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land.",M14-U,Uncommon,$0.20,main
+1,Esper Panorama,Land,,"{1}, {T}, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card and put it onto the battlefield tapped. Then shuffle your library.","ALA-C, C13-C",Common,$0.23,main
+1,Geier Reach Sanitarium,Legendary Land,,"{2}, {T}: Each player draws a card, then discards a card.",EMN-R,Rare,$0.79,main
+1,Lonely Sandbar,Land,,{T}: Add {U} to your mana pool.,"Cycling {U} ({U}, Discard this card: Draw a card.)","ONS-C, CMD-C, C13-C, C14-C, VMA-C, DDJ-C, DDT-C",Common,$0.17,main
+1,Orzhov Basilica,Land,,"When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.",{T}: Add {W}{B} to your mana pool.,"GPT-C, CMD-C, C13-C, MM2-U, C15-C, C16-U, CMA-C, C17-C, IMA-U",Uncommon,$0.21,main
+1,Phyrexia's Core,Land,,"{1}, {T}, Sacrifice an artifact: You gain 1 life.","NPH-U, C14-U",Uncommon,$0.20,main
+1,Rogue's Passage,Land,,"{4}, {T}: Target creature can't be blocked this turn.","RTR-U, ORI-U, C15-U, CN2-U, C17-U, DDM-U",Uncommon,$0.24,main
+1,Secluded Steppe,Land,,{T}: Add {W} to your mana pool.,"Cycling {W} ({W}, Discard this card: Draw a card.)","ONS-C, ARC-C, CMD-C, C13-C, C14-C, C15-C, CMA-C, C17-C, VMA-C, DDC-C, DDO-C",Common,$0.15,main
+1,Shrine of the Forsaken Gods,Land,,{T}: Add {C}{C} to your mana pool. Spend this mana only to cast colorless spells. Activate this ability only if you control seven or more lands.,BFZ-R,Rare,$0.44,main
+1,Tainted Field,Land,,{T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.,"TOR-U, C15-U, E02-U, DDK-U",Uncommon,$0.69,main
+1,Temple of the False God,Land,,"SCG-U, CMD-U, C13-U, C14-U, C15-U, C16-U, CMA-U, C17-U, DDO-U",Uncommon,$0.40,main
+
+Phenomenon
+------------
+
+Plane
+------------
+
+Planeswalker
+------------
+
+Scheme
+------------
+
+Sorcery
+------------
+1,Angelic Edict,Sorcery,{4}{W},Exile target creature or enchantment.,GTC-C,Common,$0.15,main
+1,Asphyxiate,Sorcery,{1}{B}{B},Destroy target untapped creature.,BNG-C,Common,$0.15,main
+1,Assassinate,Sorcery,{2}{B},Destroy target tapped creature.,"TSP-C, 10E-C, M10-C, M11-C, PC2-C, CNS-C, PCA-C",Common,$0.14,main
+1,Beacon of Unrest,Sorcery,{3}{B}{B},Put target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library.,"5DN-R, 10E-R, HOP-R, ARC-R, C16-R",Rare,$2.18,main
+1,Beseech the Queen,Sorcery,{2B}{2B}{2B},({(2/b)} can be paid with any two mana or with {B}. This card's converted mana cost is 6.),"Search your library for a card with converted mana cost less than or equal to the number of lands you control, reveal it, and put it into your hand. Then shuffle your library.","SHM-U, HOP-U, V16-M",Uncommon,$3.50,main
+1,Brilliant Ultimatum,Sorcery,{W}{W}{U}{U}{U}{B}{B},Exile the top five cards of your library. An opponent separates those cards into two piles. You may play any number of cards from one of those piles without paying their mana costs.,ALA-R,Rare,$0.34,main
+1,Chart a Course,Sorcery,{1}{U},Draw two cards. Then discard a card unless you attacked with a creature this turn.,XLN-U,Uncommon,$0.89,main
+1,Damnable Pact,Sorcery,{X}{B}{B},Target player draws X cards and loses X life.,"DTK-R, C17-R",Rare,$0.33,main
+1,Daring Demolition,Sorcery,{2}{B}{B},Destroy target creature or Vehicle.,AER-C,Common,$0.13,main
+1,Dark Deal,Sorcery,{2}{B},"Each player discards all the cards in his or her hand, then draws that many cards minus one.",FRF-U,Uncommon,$0.28,main
+1,Death Grasp,Sorcery,{X}{W}{B},Death Grasp deals X damage to target creature or player. You gain X life.,"AP-R, C13-R, C15-R, VMA-U, DDK-R",Rare,$0.34,main
+1,Debt to the Deathless,Sorcery,{X}{W}{W}{B}{B},Each opponent loses two times X life. You gain life equal to the life lost this way.,DGM-U,Uncommon,$0.36,main
+1,Defeat,Sorcery,{1}{B},Destroy target creature with power 2 or less.,DTK-C,Common,$0.14,main
+1,Demon's Grasp,Sorcery,{4}{B},Target creature gets -5/-5 until end of turn.,"BFZ-C, DDR-C",Common,$0.12,main
+1,Diabolic Revelation,Sorcery,{X}{3}{B}{B},Search your library for up to X cards and put those cards into your hand. Then shuffle your library.,M13-R,Rare,$1.36,main
+1,Disentomb,Sorcery,{B},Return target creature card from your graveyard to your hand.,"M10-C, M11-C, M12-C, M13-C",Common,$0.14,main
+1,Doomfall,Sorcery,{2}{B},Choose one --,• Target opponent exiles a creature he or she controls.,• Target opponent reveals his or her hand. You choose a nonland card from it. Exile that card.,HOU-U,Uncommon,$0.31,main
+1,Dutiful Return,Sorcery,{3}{B},Return up to two target creature cards from your graveyard to your hand.,"KTK-C, BFZ-C",Common,$0.13,main
+1,Excommunicate,Sorcery,{2}{W},Put target creature on top of its owner's library.,"ALA-C, M10-C, M11-C",Common,$0.14,main
+1,Foresee,Sorcery,{3}{U},"Scry 4, then draw two cards. (To scry 4, look at the top four cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","FUT-C, M11-C",Common,$0.16,main
+1,Gone Missing,Sorcery,{4}{U},Put target permanent on top of its owner's library.,"Investigate. (Create a colorless Clue artifact token with ""{2}, Sacrifice this artifact: Draw a card."")",SOI-C,Common,$0.14,main
+1,Grim Discovery,Sorcery,{1}{B},Choose one or both --,• Return target creature card from your graveyard to your hand.,• Return target land card from your graveyard to your hand.,"ZEN-C, DDR-C",Common,$0.15,main
+1,Hunger of the Nim,Sorcery,{1}{B},Target creature gets +1/+0 until end of turn for each artifact you control.,DST-C,Common,$0.14,main
+1,Interpret the Signs,Sorcery,{5}{U},"Scry 3, then reveal the top card of your library. Draw cards equal to that card's converted mana cost. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",JOU-U,Uncommon,$0.20,main
+1,Merciless Eviction,Sorcery,{4}{W}{B},Choose one --,• Exile all artifacts.,• Exile all creatures.,• Exile all enchantments.,• Exile all planeswalkers.,"GTC-R, C16-R, C17-R",Rare,$0.95,main
+1,Night's Whisper,Sorcery,{1}{B},You draw two cards and you lose 2 life.,"5DN-U, EMA-C, DDM-U",Common,$0.56,main
+1,Open the Vaults,Sorcery,{4}{W}{W},Return all artifact and enchantment cards from all graveyards to the battlefield under their owners' control. (Auras with nothing to enchant remain in graveyards.),"M10-R, C15-R, C16-R",Rare,$0.80,main
+1,Pieces of the Puzzle,Sorcery,{2}{U},Reveal the top five cards of your library. Put up to two instant and/or sorcery cards from among them into your hand and the rest into your graveyard.,SOI-C,Common,$0.17,main
+1,Pilfered Plans,Sorcery,{1}{U}{B},Target player puts the top two cards of his or her library into his or her graveyard. Draw two cards.,"DGM-C, MM3-C",Common,$0.15,main
+1,Razaketh's Rite,Sorcery,{3}{B}{B},Search your library for a card and put that card into your hand. Then shuffle your library.,"Cycling {B} ({B}, Discard this card: Draw a card.)",HOU-U,Uncommon,$0.23,main
+1,Read the Bones,Sorcery,{2}{B},"Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","THS-C, C14-C, ORI-C, C17-C, DDP-C",Common,$0.16,main
+1,Reave Soul,Sorcery,{1}{B},Destroy target creature with power 3 or less.,"ORI-C, IMA-C",Common,$0.03,main
+1,Reverse Engineer,Sorcery,{3}{U}{U},Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.),Draw three cards.,AER-U,Uncommon,$0.22,main
+1,Rise from the Grave,Sorcery,{4}{B},Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.,"M10-U, M11-U, CMD-U, M13-U, C15-U, EMN-U, CMA-U, DDD-U",Uncommon,$0.20,main
+1,Rush of Knowledge,Sorcery,{4}{U},Draw cards equal to the highest converted mana cost among permanents you control.,"SCG-C, C14-C",Common,$0.16,main
+1,Ruthless Disposal,Sorcery,{4}{B},"As an additional cost to cast Ruthless Disposal, discard a card and sacrifice a creature.",Two target creatures each get -13/-13 until end of turn.,EMN-U,Uncommon,$0.20,main
+1,Sign in Blood,Sorcery,{B}{B},Target player draws two cards and loses 2 life.,"M10-C, ARC-C, M11-C, CMD-C, M13-C, M15-C, C14-C, MM2-C, DDD-C",Common,$0.16,main
+1,Swallowing Plague,Sorcery  - Arcane,{X}{B}{B},Swallowing Plague deals X damage to target creature and you gain X life.,CHK-U,Uncommon,$0.21,main
+1,Syphon Mind,Sorcery,{3}{B},Each other player discards a card. You draw a card for each card discarded this way.,"ONS-C, HOP-C, CMD-C, C14-C, CMA-C, C17-C",Common,$0.15,main
+1,Tempt with Immortality,Sorcery,{4}{B},"Tempting offer -- Return a creature card from your graveyard to the battlefield. Each opponent may return a creature card from his or her graveyard to the battlefield. For each player who does, return a creature card from your graveyard to the battlefield.",C13-R,Rare,$0.38,main
+1,Twisted Justice,Sorcery,{4}{U}{B},Target player sacrifices a creature. You draw cards equal to that creature's power.,RAV-U,Uncommon,$0.22,main
+1,Unburial Rites,Sorcery,{4}{B},Return target creature card from your graveyard to the battlefield.,Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ISD-U, MM3-U",Uncommon,$0.21,main
+1,Vivisection,Sorcery,{3}{U},"As an additional cost to cast Vivisection, sacrifice a creature.",Draw three cards.,MBS-C,Common,$0.14,main
+1,Walk the Plank,Sorcery,{B}{B},Destroy target non-Merfolk creature.,XLN-U,Uncommon,$0.55,main
+1,Wander in Death,Sorcery,{2}{B},Return up to two target creature cards from your graveyard to your hand.,"Cycling {2} ({2}, Discard this card: Draw a card.)",AKH-C,Common,$0.14,main
+1,Whispering Madness,Sorcery,{2}{U}{B},"Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.","Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)","GTC-R, C16-R",Rare,$0.39,main
+1,Windfall,Sorcery,{2}{U},"Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.","US-U, CMD-U, C15-U, C16-U, IMA-U",Uncommon,$0.67,main
+
+Tribal
+------------
+
+Vanguard
+------------
+
+NOTYPE
+------------

@@ -1,0 +1,496 @@
+Count,Name,Type,Cost,Rarity,Price,Section
+1,Acolyte's Reward,Instant,{1}{W},Uncommon,$0.20,main
+1,Aether Poisoner,Creature  - Human Artificer,{1}{B},Common,$0.14,main
+1,Aether Spellbomb,Artifact,{1},Common,$0.15,main
+1,Aetherflux Reservoir,Artifact,{4},Rare,$0.81,main
+1,Alchemist's Vial,Artifact,{2},Common,$0.15,main
+1,Alhammarret's Archive,Legendary Artifact,{5},MythicRare,$10.61,main
+1,Altar Golem,Artifact Creature  - Golem,{7},Rare,$0.35,main
+1,Altar of Shadows,Artifact,{7},Rare,$0.42,main
+1,Altar's Reap,Instant,{1}{B},Common,$0.15,main
+1,Ambitious Aetherborn,Creature  - Aetherborn Artificer,{4}{B},Common,$0.12,main
+1,Ancestral Statue,Artifact Creature  - Golem,{4},Common,$0.15,main
+1,Angelic Edict,Sorcery,{4}{W},Common,$0.15,main
+1,Aphetto Exterminator,Creature  - Human Wizard,{2}{B},Uncommon,$0.20,main
+1,Arcane Denial,Instant,{1}{U},Common,$2.38,main
+1,Arcane Sanctum,Land,,Uncommon,$0.45,main
+1,Arcbound Crusher,Artifact Creature  - Juggernaut,{4},Uncommon,$0.53,main
+1,Arcbound Fiend,Artifact Creature  - Horror,{6},Uncommon,$0.22,main
+1,Arcbound Reclaimer,Artifact Creature  - Golem,{4},Rare,$1.07,main
+1,Arcbound Slith,Artifact Creature  - Slith,{2},Uncommon,$0.41,main
+1,Arcbound Worker,Artifact Creature  - Construct,{1},Common,$0.16,main
+1,Architects of Will,Artifact Creature  - Human Wizard,{2}{U}{B},Common,$0.38,main
+1,Armillary Sphere,Artifact,{2},Common,$0.17,main
+1,Armory of Iroas,Artifact  - Equipment,{2},Uncommon,$0.20,main
+1,Arrest,Enchantment  - Aura,{2}{W},Common,$0.15,main
+1,Arsenal Thresher,Artifact Creature  - Construct,{2}{WB}{U},Common,$0.15,main
+1,Artisan of Kozilek,Creature  - Eldrazi,{9},Uncommon,$0.32,main
+1,Asphyxiate,Sorcery,{1}{B}{B},Common,$0.15,main
+1,Aspiring Aeronaut,Creature  - Human Artificer,{3}{U},Common,$0.14,main
+1,Assassinate,Sorcery,{2}{B},Common,$0.14,main
+1,Azorius Chancery,Land,,Uncommon,$0.21,main
+1,Azorius Signet,Artifact,{2},Uncommon,$0.74,main
+1,Bane of Bala Ged,Creature  - Eldrazi,{7},Uncommon,$0.25,main
+1,Banewhip Punisher,Creature  - Human Warrior,{2}{B},Uncommon,$0.20,main
+1,Banshee's Blade,Artifact  - Equipment,{2},Uncommon,$0.21,main
+1,Barren Moor,Land,,Common,$0.27,main
+1,Bastion Mastodon,Artifact Creature  - Elephant,{5},Common,$0.12,main
+1,Beacon of Unrest,Sorcery,{3}{B}{B},Rare,$2.18,main
+1,Behind the Scenes,Enchantment,{2}{B},Uncommon,$0.22,main
+1,Beseech the Queen,Sorcery,{2B}{2B}{2B},Uncommon,$3.50,main
+1,Blade Splicer,Creature  - Human Artificer,{2}{W},Rare,$1.39,main
+1,Bladed Pinions,Artifact  - Equipment,{2},Common,$0.16,main
+1,Blessed Alliance,Instant,{1}{W},Uncommon,$1.33,main
+1,Blight Sickle,Artifact  - Equipment,{2},Common,$0.17,main
+1,Blinding Souleater,Artifact Creature  - Cleric,{3},Common,$0.15,main
+1,Blinkmoth Urn,Artifact,{5},Rare,$0.66,main
+1,Blood Clock,Artifact,{4},Rare,$0.51,main
+1,Bloodletter Quill,Artifact,{3},Rare,$0.32,main
+1,Blue Sun's Zenith,Instant,{X}{U}{U}{U},Rare,$0.96,main
+1,Bojuka Bog,Land,,Common,$1.21,main
+1,Bonded Construct,Artifact Creature  - Construct,{1},Common,$0.15,main
+1,Bone Saw,Artifact  - Equipment,{0},Common,$0.16,main
+1,Bonehoard,Artifact - Equipment,{4},Rare,$0.31,main
+1,Bontu's Monument,Legendary Artifact,{3},Uncommon,$0.26,main
+1,Boompile,Artifact,{4},Rare,$0.63,main
+1,Borrowed Malevolence,Instant,{B},Common,$0.14,main
+1,Brilliant Ultimatum,Sorcery,{W}{W}{U}{U}{U}{B}{B},Rare,$0.34,main
+1,Broodstar,Creature  - Beast,{8}{U}{U},Rare,$0.57,main
+1,Burnished Hart,Artifact Creature  - Elk,{3},Uncommon,$0.64,main
+1,Caltrops,Artifact,{3},Uncommon,$0.33,main
+1,Cancel,Instant,{1}{U}{U},Common,$0.14,main
+1,Cathar's Shield,Artifact  - Equipment,{0},Common,$0.16,main
+1,Cathodion,Artifact Creature  - Construct,{3},Common,$0.16,main
+1,Chalice of Life,Artifact,{3},Uncommon,$0.69,main
+1,Charcoal Diamond,Artifact,{2},Uncommon,$0.30,main
+1,Chart a Course,Sorcery,{1}{U},Uncommon,$0.89,main
+1,Chief Engineer,Creature  - Vedalken Artificer,{1}{U},Rare,$0.50,main
+1,Chief of the Foundry,Artifact Creature  - Construct,{3},Uncommon,$0.21,main
+1,Chrome Steed,Artifact Creature  - Horse,{4},Common,$0.13,main
+1,Cliffside Lookout,Creature  - Kor Scout Ally,{W},Common,$0.13,main
+1,Clock of Omens,Artifact,{4},Uncommon,$0.20,main
+1,Clone,Creature  - Shapeshifter,{3}{U},Rare,$0.38,main
+1,Clone Shell,Artifact Creature  - Shapeshifter,{5},Uncommon,$0.20,main
+1,Cloud Key,Artifact,{3},Rare,$9.09,main
+1,Cloudstone Curio,Artifact,{3},Rare,$10.29,main
+1,Coat with Venom,Instant,{B},Common,$0.15,main
+1,Cobbled Wings,Artifact  - Equipment,{2},Common,$0.14,main
+1,Cogwork Assembler,Artifact Creature  - Assembly-Worker,{3},Uncommon,$0.22,main
+1,Cogworker's Puzzleknot,Artifact,{2},Common,$0.13,main
+1,Colossus of Akros,Artifact Creature  - Golem,{8},Rare,$0.95,main
+1,Conjurer's Bauble,Artifact,{1},Common,$0.21,main
+1,Conqueror's Galleon,Artifact  - Vehicle,{4},Rare,$0.40,main
+1,Contagion Clasp,Artifact,{2},Uncommon,$0.30,main
+1,Contraband Kingpin,Creature  - Aetherborn Rogue,{U}{B},Uncommon,$0.21,main
+1,Conversion Chamber,Artifact,{3},Uncommon,$0.19,main
+1,Coretapper,Artifact Creature  - Myr,{2},Uncommon,$1.37,main
+1,Corpse Churn,Instant,{1}{B},Common,$0.14,main
+1,Corpse Connoisseur,Creature  - Zombie Wizard,{4}{B},Uncommon,$0.25,main
+1,Corrupted Grafstone,Artifact,{2},Rare,$0.32,main
+1,Costly Plunder,Instant,{1}{B},Common,$0.13,main
+1,Countervailing Winds,Instant,{2}{U},Common,$0.15,main
+1,Courier's Capsule,Artifact,{1}{U},Common,$0.16,main
+1,Crackdown Construct,Artifact Creature  - Construct,{4},Uncommon,$0.23,main
+1,Cradle of Vitality,Enchantment,{3}{W},Rare,$0.72,main
+1,Cranial Archive,Artifact,{2},Uncommon,$0.20,main
+1,Cranial Plating,Artifact  - Equipment,{2},Uncommon,$0.86,main
+1,Crook of Condemnation,Artifact,{2},Uncommon,$0.20,main
+1,Cryptolith Fragment,Artifact,{3},Uncommon,$0.22,main
+1,Cultivator's Caravan,Artifact  - Vehicle,{3},Rare,$0.40,main
+1,Curse of Exhaustion,Enchantment  - Aura Curse,{2}{W}{W},Uncommon,$0.25,main
+1,Dagger of the Worthy,Artifact  - Equipment,{2},Uncommon,$0.22,main
+1,Damnable Pact,Sorcery,{X}{B}{B},Rare,$0.33,main
+1,Daredevil Dragster,Artifact  - Vehicle,{3},Uncommon,$0.20,main
+1,Daring Demolition,Sorcery,{2}{B}{B},Common,$0.13,main
+1,Dark Dabbling,Instant,{2}{B},Common,$0.15,main
+1,Dark Deal,Sorcery,{2}{B},Uncommon,$0.28,main
+1,Darksteel Citadel,Artifact Land,,Uncommon,$0.78,main
+1,Darksteel Sentinel,Artifact Creature  - Golem,{6},Uncommon,$0.19,main
+1,Deadeye Harpooner,Creature  - Dwarf Warrior,{2}{W},Uncommon,$0.20,main
+1,Deadeye Plunderers,Creature  - Human Pirate,{3}{U}{B},Uncommon,$0.19,main
+1,Deadeye Quartermaster,Creature  - Human Pirate,{3}{U},Uncommon,$0.20,main
+1,Deadly Wanderings,Enchantment,{3}{B}{B},Uncommon,$0.21,main
+1,Death Grasp,Sorcery,{X}{W}{B},Rare,$0.34,main
+1,Debt to the Deathless,Sorcery,{X}{W}{W}{B}{B},Uncommon,$0.36,main
+1,Defeat,Sorcery,{1}{B},Common,$0.14,main
+1,Defiant Salvager,Creature  - Aetherborn Artificer,{2}{B},Common,$0.13,main
+1,Demon's Grasp,Sorcery,{4}{B},Common,$0.12,main
+1,Depths of Desire,Instant,{2}{U},Common,$0.13,main
+1,Desperate Castaways,Creature  - Human Pirate,{1}{B},Common,$0.13,main
+1,Detention Sphere,Enchantment,{1}{W}{U},Rare,$1.71,main
+1,Diabolic Revelation,Sorcery,{X}{3}{B}{B},Rare,$1.36,main
+1,Dimir Aqueduct,Land,,Uncommon,$0.34,main
+1,Dimir Cluestone,Artifact,{3},Common,$0.15,main
+1,Dimir House Guard,Creature  - Skeleton,{3}{B},Common,$0.21,main
+1,Dimir Infiltrator,Creature  - Spirit,{U}{B},Common,$0.18,main
+1,Dimir Keyrune,Artifact,{3},Uncommon,$0.20,main
+1,Dimir Signet,Artifact,{2},Uncommon,$1.29,main
+1,Dire Fleet Hoarder,Creature  - Human Pirate,{1}{B},Common,$0.13,main
+1,Disciple of the Vault,Creature  - Human Cleric,{B},Common,$0.25,main
+1,Disentomb,Sorcery,{B},Common,$0.14,main
+1,Dismal Backwater,Land,,Common,$0.15,main
+1,Dispatch,Instant,{W},Uncommon,$1.01,main
+1,Dispel,Instant,{U},Common,$0.20,main
+1,Dispeller's Capsule,Artifact,{W},Common,$0.15,main
+1,Dive Down,Instant,{U},Common,$0.14,main
+1,Doomfall,Sorcery,{2}{B},Uncommon,$0.31,main
+1,Doomsday Specter,Creature  - Specter,{2}{U}{B},Rare,$0.58,main
+1,Dramatic Reversal,Instant,{1}{U},Common,$0.17,main
+1,Dread Statuary,Land,,Uncommon,$0.20,main
+1,Dreamstone Hedron,Artifact,{6},Uncommon,$0.21,main
+1,Dross Golem,Artifact Creature  - Golem,{5},Common,$0.15,main
+1,Dross Scorpion,Artifact Creature  - Scorpion,{4},Common,$0.15,main
+1,Dukhara Scavenger,Creature  - Crocodile,{5}{B},Common,$0.11,main
+1,Dusk Feaster,Creature  - Vampire,{5}{B}{B},Uncommon,$0.19,main
+1,Dusk Legion Dreadnought,Artifact  - Vehicle,{5},Uncommon,$0.20,main
+1,Duskmantle Guildmage,Creature  - Human Wizard,{U}{B},Uncommon,$0.48,main
+1,Duskmantle Seer,Creature  - Vampire Wizard,{2}{U}{B},MythicRare,$0.54,main
+1,Dutiful Return,Sorcery,{3}{B},Common,$0.13,main
+1,Eager Construct,Artifact Creature  - Construct,{2},Common,$0.12,main
+1,Echoes of the Kin Tree,Enchantment,{1}{W},Uncommon,$0.21,main
+1,Efficient Construction,Enchantment,{3}{U},Uncommon,$0.20,main
+1,Elaborate Firecannon,Artifact,{2},Uncommon,$0.20,main
+1,Elixir of Immortality,Artifact,{1},Uncommon,$0.42,main
+1,Encroaching Wastes,Land,,Uncommon,$0.20,main
+1,Energy Chamber,Artifact,{2},Uncommon,$0.73,main
+1,Enigma Sphinx,Artifact Creature  - Sphinx,{4}{W}{U}{B},Rare,$0.51,main
+1,Enlightened Tutor,Instant,{W},Rare,$13.88,main
+1,Ensoul Artifact,Enchantment  - Aura,{1}{U},Uncommon,$0.65,main
+1,Eon Hub,Artifact,{5},Rare,$0.86,main
+1,Epitaph Golem,Artifact Creature  - Golem,{5},Uncommon,$0.20,main
+1,Equipoise,Enchantment,{2}{W},Rare,$1.09,main
+1,Erase,Instant,{W},Common,$0.14,main
+1,Esper Panorama,Land,,Common,$0.23,main
+1,Esper Sojourners,Artifact Creature  - Vedalken Wizard,{W}{U}{B},Common,$0.15,main
+1,Esperzoa,Artifact Creature  - Jellyfish,{2}{U},Uncommon,$0.20,main
+1,Etherium Astrolabe,Artifact,{2}{U},Uncommon,$0.20,main
+1,Etherium Sculptor,Artifact Creature  - Vedalken Artificer,{1}{U},Common,$0.52,main
+1,Ethersworn Adjudicator,Artifact Creature  - Vedalken Knight,{4}{U},MythicRare,$0.91,main
+1,Ethersworn Canonist,Artifact Creature  - Human Cleric,{1}{W},Rare,$13.45,main
+1,Ethersworn Shieldmage,Artifact Creature  - Vedalken Wizard,{1}{W}{U},Common,$0.16,main
+1,Etherwrought Page,Artifact,{1}{W}{U}{B},Uncommon,$0.23,main
+1,Everflowing Chalice,Artifact,{0},Uncommon,$0.50,main
+1,Excommunicate,Sorcery,{2}{W},Common,$0.14,main
+1,Executioner's Capsule,Artifact,{B},Common,$0.21,main
+1,Explorer's Scope,Artifact  - Equipment,{1},Common,$0.18,main
+1,Eye of Doom,Artifact,{4},Rare,$0.33,main
+1,Faith's Reward,Instant,{3}{W},Rare,$0.53,main
+1,Feat of Resistance,Instant,{1}{W},Common,$0.15,main
+1,Feldon's Cane,Artifact,{1},Special,$0.47,main
+1,Filigree Angel,Artifact Creature  - Angel,{5}{W}{W}{U},Rare,$0.33,main
+1,Filigree Familiar,Artifact Creature  - Fox,{3},Uncommon,$0.24,main
+1,Filigree Sages,Artifact Creature  - Vedalken Wizard,{3}{U},Uncommon,$0.21,main
+1,Fireshrieker,Artifact  - Equipment,{3},Uncommon,$0.21,main
+1,Flayer Husk,Artifact - Equipment,{1},Common,$0.18,main
+1,Foresee,Sorcery,{3}{U},Common,$0.16,main
+1,Foundry Inspector,Artifact Creature  - Construct,{3},Uncommon,$0.25,main
+1,Freed from the Real,Enchantment  - Aura,{2}{U},Common,$0.87,main
+1,Gate to the Aether,Artifact,{6},Rare,$1.13,main
+1,Gauntlet of Power,Artifact,{5},Rare,$18.99,main
+1,Geier Reach Sanitarium,Legendary Land,,Rare,$0.79,main
+1,Ghostfire Blade,Artifact  - Equipment,{1},Rare,$0.45,main
+1,Ghostly Flicker,Instant,{2}{U},Common,$0.20,main
+1,Ghoulcaller's Bell,Artifact,{1},Common,$0.15,main
+1,Gift of Tusks,Instant,{U},Uncommon,$0.20,main
+1,Gilded Sentinel,Artifact Creature  - Golem,{4},Common,$0.13,main
+1,Glassdust Hulk,Artifact Creature  - Golem,{3}{W}{U},Uncommon,$0.22,main
+1,Glaze Fiend,Artifact Creature  - Illusion,{1}{B},Common,$0.16,main
+1,Gnawing Zombie,Creature  - Zombie,{1}{B},Common,$0.15,main
+1,Golem Artisan,Artifact Creature  - Golem,{5},Uncommon,$0.17,main
+1,Golem Foundry,Artifact,{3},Common,$0.17,main
+1,Gone Missing,Sorcery,{4}{U},Common,$0.14,main
+1,Gonti's Aether Heart,Legendary Artifact,{6},MythicRare,$0.69,main
+1,Gorgon Flail,Artifact  - Equipment,{2},Uncommon,$0.55,main
+1,Grappling Hook,Artifact  - Equipment,{4},Rare,$0.30,main
+1,Grasp of Darkness,Instant,{B}{B},Uncommon,$0.52,main
+1,Gravepurge,Instant,{2}{B},Common,$0.15,main
+1,Grim Discovery,Sorcery,{1}{B},Common,$0.15,main
+1,Grindclock,Artifact,{2},Rare,$0.31,main
+1,Grisly Spectacle,Instant,{2}{B}{B},Common,$0.04,main
+1,Guardian Idol,Artifact,{2},Common,$0.14,main
+1,Guardian of the Ages,Artifact Creature  - Golem,{7},Rare,$0.30,main
+1,Guardian of the Guildpact,Creature  - Spirit,{3}{W},Common,$0.34,main
+1,"Hanna, Ship's Navigator",Legendary Creature  - Human Artificer,{1}{W}{U},Rare,$2.84,main
+1,Harvest Hand,Artifact Creature  - Scarecrow,{3},Uncommon,$0.21,main
+1,Hedron Archive,Artifact,{4},Uncommon,$0.55,main
+1,Hedron Blade,Artifact  - Equipment,{1},Common,$0.14,main
+1,Heirloom Blade,Artifact  - Equipment,{3},Uncommon,$0.44,main
+1,Helvault,Legendary Artifact,{3},MythicRare,$0.62,main
+1,Herbal Poultice,Artifact,{0},Common,$0.15,main
+1,Hewed Stone Retainers,Artifact Creature  - Golem,{3},Uncommon,$0.20,main
+1,Hidden Stockpile,Enchantment,{W}{B},Uncommon,$0.31,main
+1,Hierophant's Chalice,Artifact,{3},Common,$0.13,main
+1,Hunger of the Nim,Sorcery,{1}{B},Common,$0.14,main
+1,Ichor Wellspring,Artifact,{2},Common,$0.31,main
+1,Ichorclaw Myr,Artifact Creature  - Myr,{2},Common,$1.10,main
+1,Imaginary Threats,Instant,{2}{U}{U},Uncommon,$0.21,main
+1,Implement of Examination,Artifact,{3},Common,$0.13,main
+1,Implement of Malice,Artifact,{2},Common,$0.13,main
+1,Indomitable Archangel,Creature  - Angel,{2}{W}{W},Rare,$0.74,main
+1,Induce Despair,Instant,{2}{B},Common,$0.15,main
+1,Infernal Scarring,Enchantment  - Aura,{1}{B},Common,$0.15,main
+1,Interpret the Signs,Sorcery,{5}{U},Uncommon,$0.20,main
+1,Isolation Cell,Artifact,{4},Uncommon,$0.20,main
+1,Jace's Archivist,Creature  - Vedalken Wizard,{1}{U}{U},Rare,$0.90,main
+1,Junk Diver,Artifact Creature  - Bird,{3},Rare,$0.80,main
+1,Just the Wind,Instant,{1}{U},Common,$0.15,main
+1,Kagemaro's Clutch,Enchantment  - Aura,{3}{B},Common,$0.15,main
+1,Key to the City,Artifact,{2},Rare,$0.42,main
+1,Khalni Gem,Artifact,{4},Uncommon,$0.20,main
+1,Kheru Bloodsucker,Creature  - Vampire,{2}{B},Uncommon,$0.21,main
+1,Knowledge Pool,Artifact,{6},Rare,$0.36,main
+1,Launch Party,Instant,{3}{B},Common,$0.14,main
+1,Leaden Myr,Artifact Creature  - Myr,{2},Common,$0.15,main
+1,Lens of Clarity,Artifact,{1},Common,$0.14,main
+1,Lightning Coils,Artifact,{3},Rare,$0.42,main
+1,Liquimetal Coating,Artifact,{2},Uncommon,$0.27,main
+1,Lodestone Bauble,Artifact,{0},Rare,$2.21,main
+1,Lodestone Golem,Artifact Creature  - Golem,{4},Rare,$0.78,main
+1,Lodestone Myr,Artifact Creature  - Myr,{4},Rare,$0.33,main
+1,Lonely Sandbar,Land,,Common,$0.17,main
+1,Loreseeker's Stone,Artifact,{6},Uncommon,$0.18,main
+1,"Lorthos, the Tidemaker",Legendary Creature  - Octopus,{5}{U}{U}{U},MythicRare,$1.08,main
+1,Magnifying Glass,Artifact,{3},Uncommon,$0.21,main
+1,Mana Cylix,Artifact,{1},Common,$0.15,main
+1,Mana Tithe,Instant,{W},Common,$1.21,main
+1,Marble Diamond,Artifact,{2},Uncommon,$0.27,main
+1,March of the Machines,Enchantment,{3}{U},Rare,$0.61,main
+1,Mark of the Vampire,Enchantment  - Aura,{3}{B},Common,$0.14,main
+1,Mask of Riddles,Artifact  - Equipment,{U}{B},Uncommon,$0.36,main
+1,Master Splicer,Creature  - Human Artificer,{3}{W},Uncommon,$0.20,main
+1,Merciless Eviction,Sorcery,{4}{W}{B},Rare,$0.95,main
+1,Metallurgeon,Artifact Creature  - Human Artificer,{1}{W},Uncommon,$0.20,main
+1,Metalspinner's Puzzleknot,Artifact,{2},Common,$0.13,main
+1,Military Intelligence,Enchantment,{1}{U},Uncommon,$0.21,main
+1,Mind Stone,Artifact,{2},Common,$0.24,main
+1,Mindcrank,Artifact,{2},Uncommon,$0.65,main
+1,Mindshrieker,Creature  - Spirit Bird,{1}{U},Rare,$0.47,main
+1,Mirran Spy,Creature - Drone,{2}{U},Common,$0.14,main
+1,Mirror Golem,Artifact Creature  - Golem,{6},Uncommon,$0.20,main
+1,Mirrorworks,Artifact,{5},Rare,$2.06,main
+1,Mistform Warchief,Creature  - Illusion,{2}{U},Uncommon,$0.25,main
+1,Mistvein Borderpost,Artifact,{1}{U}{B},Common,$0.20,main
+1,Molting Snakeskin,Enchantment  - Aura,{B},Common,$0.14,main
+1,Moriok Replica,Artifact Creature  - Warrior,{3},Common,$0.14,main
+1,Mortarpod,Artifact - Equipment,{2},Uncommon,$0.21,main
+1,Mortify,Instant,{1}{W}{B},Uncommon,$0.50,main
+1,Mulldrifter,Creature  - Elemental,{4}{U},Uncommon,$0.97,main
+1,Murderer's Axe,Artifact  - Equipment,{4},Uncommon,$0.20,main
+1,Mycosynth Wellspring,Artifact,{2},Common,$0.16,main
+1,Myr Galvanizer,Artifact Creature  - Myr,{3},Uncommon,$0.47,main
+1,Myr Retriever,Artifact Creature  - Myr,{2},Uncommon,$0.35,main
+1,Myr Sire,Artifact Creature - Myr,{2},Common,$0.14,main
+1,Necrobite,Instant,{2}{B},Common,$0.15,main
+1,Negate,Instant,{1}{U},Common,$0.15,main
+1,Neurok Replica,Artifact Creature  - Wizard,{3},Common,$0.13,main
+1,Neurok Stealthsuit,Artifact  - Equipment,{2},Common,$0.19,main
+1,Night's Whisper,Sorcery,{1}{B},Common,$0.56,main
+1,Nihil Spellbomb,Artifact,{1},Common,$0.89,main
+1,Nim Shrieker,Creature  - Zombie,{3}{B},Common,$0.15,main
+1,Notion Thief,Creature  - Human Rogue,{2}{U}{B},Rare,$0.75,main
+1,Nuisance Engine,Artifact,{3},Uncommon,$0.20,main
+1,Null Profusion,Enchantment,{4}{B}{B},Rare,$0.35,main
+1,Obelisk of Esper,Artifact,{3},Common,$0.15,main
+1,Onyx Goblet,Artifact,{2}{B},Common,$0.16,main
+1,Open the Vaults,Sorcery,{4}{W}{W},Rare,$0.80,main
+1,Opt,Instant,{U},Common,$0.69,main
+1,Orazca Relic,Artifact,{3},Common,$0.11,main
+1,Ordeal of Erebos,Enchantment  - Aura,{1}{B},Uncommon,$0.20,main
+1,Ordeal of Heliod,Enchantment  - Aura,{1}{W},Uncommon,$0.22,main
+1,Ordeal of Thassa,Enchantment  - Aura,{1}{U},Uncommon,$0.20,main
+1,Ornithopter,Artifact Creature  - Thopter,{0},Uncommon,$0.22,main
+1,Orochi Hatchery,Artifact,{X}{X},Rare,$0.36,main
+1,Orzhov Basilica,Land,,Uncommon,$0.21,main
+1,Orzhov Signet,Artifact,{2},Uncommon,$0.26,main
+1,Otherworld Atlas,Artifact,{4},Rare,$0.43,main
+1,Otherworldly Journey,Instant  - Arcane,{1}{W},Common,$0.16,main
+1,"Padeem, Consul of Innovation",Legendary Creature  - Vedalken Artificer,{3}{U},Rare,$0.32,main
+1,Painsmith,Creature  - Human Artificer,{1}{B},Uncommon,$0.19,main
+1,Palladium Myr,Artifact Creature  - Myr,{3},Uncommon,$0.26,main
+1,Paradise Mantle,Artifact  - Equipment,{0},Uncommon,$1.93,main
+1,Parasitic Strix,Artifact Creature  - Bird,{2}{U},Common,$0.16,main
+1,Pennon Blade,Artifact  - Equipment,{3},Uncommon,$0.20,main
+1,Pentavus,Artifact Creature  - Construct,{7},Rare,$0.31,main
+1,Pewter Golem,Artifact Creature  - Golem,{5},Common,$0.14,main
+1,Phyrexia's Core,Land,,Uncommon,$0.20,main
+1,Phyrexian Walker,Artifact Creature  - Construct,{0},Common,$0.35,main
+1,Pieces of the Puzzle,Sorcery,{2}{U},Common,$0.17,main
+1,Pilfered Plans,Sorcery,{1}{U}{B},Common,$0.15,main
+1,Pilgrim of the Fires,Artifact Creature  - Golem,{7},Uncommon,$0.21,main
+1,Pilgrim's Eye,Artifact Creature  - Thopter,{3},Common,$0.17,main
+1,Pili-Pala,Artifact Creature  - Scarecrow,{2},Common,$1.08,main
+1,Pillar of Origins,Artifact,{2},Uncommon,$0.21,main
+1,Pirate's Cutlass,Artifact  - Equipment,{3},Common,$0.14,main
+1,Pitfall Trap,Instant  - Trap,{2}{W},Common,$0.14,main
+1,Porcelain Legionnaire,Artifact Creature  - Soldier,{2}{WP},Common,$0.15,main
+1,Prophetic Prism,Artifact,{2},Common,$0.14,main
+1,Prosperous Pirates,Creature  - Human Pirate,{4}{U},Common,$0.13,main
+1,Prototype Portal,Artifact,{4},Rare,$1.17,main
+1,Prowler's Helm,Artifact  - Equipment,{2},Uncommon,$0.18,main
+1,Prying Blade,Artifact  - Equipment,{1},Common,$0.12,main
+1,Psychic Spiral,Instant,{4}{U},Uncommon,$0.20,main
+1,Psychic Strike,Instant,{1}{U}{B},Common,$0.15,main
+1,Pull from Tomorrow,Instant,{X}{U}{U},Rare,$0.85,main
+1,Ramroller,Artifact Creature  - Juggernaut,{3},Uncommon,$0.20,main
+1,Razaketh's Rite,Sorcery,{3}{B}{B},Uncommon,$0.23,main
+1,Razor Golem,Artifact Creature  - Golem,{6},Common,$0.16,main
+1,Read the Bones,Sorcery,{2}{B},Common,$0.16,main
+1,Reality Shift,Instant,{1}{U},Uncommon,$0.26,main
+1,Reave Soul,Sorcery,{1}{B},Common,$0.03,main
+1,Refocus,Instant,{1}{U},Common,$0.14,main
+1,Reito Lantern,Artifact,{2},Uncommon,$0.24,main
+1,Renegade Map,Artifact,{1},Common,$0.15,main
+1,Rescue from the Underworld,Instant,{4}{B},Uncommon,$0.20,main
+1,Retraction Helix,Instant,{U},Common,$0.16,main
+1,Reverse Engineer,Sorcery,{3}{U}{U},Uncommon,$0.22,main
+1,Rewind,Instant,{2}{U}{U},Common,$0.17,main
+1,Riddlesmith,Creature  - Human Artificer,{1}{U},Uncommon,$0.20,main
+1,Ring of Evos Isle,Artifact  - Equipment,{2},Uncommon,$0.20,main
+1,Rise from the Grave,Sorcery,{4}{B},Uncommon,$0.20,main
+1,Rogue's Gloves,Artifact  - Equipment,{2},Uncommon,$0.20,main
+1,Rogue's Passage,Land,,Uncommon,$0.24,main
+1,Runed Servitor,Artifact Creature  - Construct,{2},Common,$0.14,main
+1,Rush of Knowledge,Sorcery,{4}{U},Common,$0.16,main
+1,Rusted Relic,Artifact,{4},Common,$0.15,main
+1,Rusted Slasher,Artifact Creature - Horror,{4},Common,$0.13,main
+1,Ruthless Disposal,Sorcery,{4}{B},Uncommon,$0.20,main
+1,Ruthless Knave,Creature  - Orc Pirate,{2}{B},Uncommon,$0.21,main
+1,Sage of Epityr,Creature  - Human Wizard,{U},Common,$0.35,main
+1,Salvage Slasher,Artifact Creature  - Human Rogue,{1}{B},Common,$0.15,main
+1,Salvage Titan,Artifact Creature  - Golem,{4}{B}{B},Rare,$0.38,main
+1,Salvaging Station,Artifact,{6},Rare,$0.63,main
+1,Scourglass,Artifact,{3}{W}{W},Rare,$3.06,main
+1,Scrap Trawler,Artifact Creature  - Construct,{3},Rare,$0.37,main
+1,Scrapdiver Serpent,Creature  - Serpent,{5}{U}{U},Common,$0.13,main
+1,Scrapheap Scrounger,Artifact Creature  - Construct,{2},Rare,$0.82,main
+1,Secluded Steppe,Land,,Common,$0.15,main
+1,Seekers' Squire,Creature  - Human Scout,{1}{B},Uncommon,$0.20,main
+1,Seer's Sundial,Artifact,{4},Rare,$0.30,main
+1,Send to Sleep,Instant,{1}{U},Common,$0.16,main
+1,Sensor Splicer,Creature  - Artificer,{4}{W},Common,$0.14,main
+1,Servo Schematic,Artifact,{2},Uncommon,$0.23,main
+1,Sharding Sphinx,Artifact Creature  - Sphinx,{4}{U}{U},Rare,$0.47,main
+1,Sharuum the Hegemon,Legendary Artifact Creature  - Sphinx,{3}{W}{U}{B},MythicRare,$0.62,main
+1,Shimmer Myr,Artifact Creature - Myr,{3},Rare,$0.95,main
+1,Shipwreck Looter,Creature  - Human Pirate,{1}{U},Common,$0.13,main
+1,Shrine of the Forsaken Gods,Land,,Rare,$0.44,main
+1,Sign in Blood,Sorcery,{B}{B},Common,$0.16,main
+1,Signal Pest,Artifact Creature - Pest,{1},Uncommon,$0.79,main
+1,Silumgar Monument,Artifact,{3},Uncommon,$0.22,main
+1,Silver Myr,Artifact Creature  - Myr,{2},Common,$0.16,main
+1,Silverskin Armor,Artifact - Equipment,{2},Uncommon,$0.19,main
+1,Siren of the Silent Song,Creature  - Zombie Siren,{1}{U}{B},Uncommon,$0.26,main
+1,Skeletal Scrying,Instant,{X}{B},Uncommon,$0.22,main
+1,Skeletal Vampire,Creature  - Vampire Skeleton,{4}{B}{B},Rare,$0.33,main
+1,Skeleton Key,Artifact  - Equipment,{1},Uncommon,$0.21,main
+1,Skeleton Shard,Artifact,{3},Uncommon,$0.21,main
+1,Skill Borrower,Artifact Creature  - Human Wizard,{2}{U},Rare,$0.37,main
+1,Skirsdag High Priest,Creature  - Human Cleric,{1}{B},Rare,$0.46,main
+1,Sky Diamond,Artifact,{2},Uncommon,$0.38,main
+1,Sleek Schooner,Artifact  - Vehicle,{3},Uncommon,$0.19,main
+1,Smother,Instant,{1}{B},Uncommon,$0.26,main
+1,Smuggler's Copter,Artifact  - Vehicle,{2},Rare,$2.21,main
+1,Snapsail Glider,Artifact Creature  - Construct,{3},Common,$0.14,main
+1,Soul Separator,Artifact,{3},Rare,$0.27,main
+1,Soul Stair Expedition,Enchantment,{B},Common,$0.15,main
+1,Spawning Pit,Artifact,{2},Uncommon,$0.90,main
+1,Spell Pierce,Instant,{U},Common,$0.20,main
+1,Spellbook,Artifact,{0},Uncommon,$0.78,main
+1,Sphinx Summoner,Artifact Creature  - Sphinx,{3}{U}{B},Rare,$0.42,main
+1,Spidersilk Net,Artifact  - Equipment,{0},Common,$0.16,main
+1,Spine of Ish Sah,Artifact,{7},Rare,$0.46,main
+1,Spirit of the Labyrinth,Enchantment Creature  - Spirit,{1}{W},Rare,$0.54,main
+1,Staff of Nin,Artifact,{6},Rare,$0.44,main
+1,Stand Firm,Instant,{W},Common,$0.14,main
+1,Stasis Cocoon,Enchantment  - Aura,{1}{W},Common,$0.15,main
+1,Stasis Snare,Enchantment,{1}{W}{W},Uncommon,$0.40,main
+1,Statute of Denial,Instant,{2}{U}{U},Common,$0.15,main
+1,Steel Sabotage,Instant,{U},Common,$0.14,main
+1,Stoic Rebuttal,Instant,{1}{U}{U},Common,$0.16,main
+1,Strange Augmentation,Enchantment  - Aura,{B},Common,$0.14,main
+1,Striped Riverwinder,Creature  - Serpent,{6}{U},Common,$0.15,main
+1,Subjugator Angel,Creature  - Angel,{4}{W}{W},Uncommon,$0.23,main
+1,Sunset Pyramid,Artifact,{2},Uncommon,$0.20,main
+1,Swallowing Plague,Sorcery  - Arcane,{X}{B}{B},Uncommon,$0.21,main
+1,Swiftfoot Boots,Artifact  - Equipment,{2},Uncommon,$1.22,main
+1,"Sydri, Galvanic Genius",Legendary Creature  - Human Artificer,{W}{U}{B},MythicRare,$0.61,main
+1,Sylvok Lifestaff,Artifact  - Equipment,{1},Common,$0.15,main
+1,Syndicate Trafficker,Creature  - Aetherborn Rogue,{1}{B},Rare,$0.32,main
+1,Synod Artificer,Creature  - Vedalken Artificer,{2}{U},Rare,$0.32,main
+1,Syphon Mind,Sorcery,{3}{B},Common,$0.15,main
+1,Tainted Field,Land,,Uncommon,$0.69,main
+1,Tamiyo's Journal,Legendary Artifact,{5},Rare,$0.44,main
+1,Tapestry of the Ages,Artifact,{4},Uncommon,$0.21,main
+1,Tempest Caller,Creature  - Merfolk Wizard,{2}{U}{U},Uncommon,$0.19,main
+1,Temple Bell,Artifact,{3},Rare,$0.67,main
+1,Temple of the False God,Land,,Uncommon,$0.40,main
+1,Temporal Isolation,Enchantment  - Aura,{1}{W},Common,$0.20,main
+1,Tempt with Immortality,Sorcery,{4}{B},Rare,$0.38,main
+1,Terrarion,Artifact,{1},Common,$0.15,main
+1,Terrus Wurm,Creature  - Zombie Wurm,{6}{B},Common,$0.14,main
+1,Tezzeret's Touch,Enchantment  - Aura,{1}{U}{B},Uncommon,$0.23,main
+1,Thopter Arrest,Enchantment,{2}{W},Uncommon,$0.20,main
+1,Thopter Foundry,Artifact,{WB}{U},Uncommon,$0.63,main
+1,Thopter Spy Network,Enchantment,{2}{U}{U},Rare,$0.85,main
+1,Thoughtcutter Agent,Artifact Creature  - Human Rogue,{U}{B},Uncommon,$0.20,main
+1,Thoughtpicker Witch,Creature  - Human Wizard,{B},Common,$0.16,main
+1,Thraben Heretic,Creature  - Human Wizard,{1}{W},Uncommon,$0.18,main
+1,Throwing Knife,Artifact  - Equipment,{2},Uncommon,$0.21,main
+1,Thrummingbird,Creature  - Bird Horror,{1}{U},Uncommon,$0.25,main
+1,Tidehollow Strix,Artifact Creature  - Bird,{U}{B},Common,$0.18,main
+1,Tidy Conclusion,Instant,{3}{B}{B},Common,$0.12,main
+1,To Arms!,Instant,{1}{W},Uncommon,$0.33,main
+1,Tormod's Crypt,Artifact,{0},Uncommon,$0.34,main
+1,Touch of Moonglove,Instant,{B},Common,$0.15,main
+1,Trading Post,Artifact,{4},Rare,$0.36,main
+1,Tragic Lesson,Instant,{2}{U},Common,$0.15,main
+1,Training Drone,Artifact Creature - Drone,{3},Common,$0.14,main
+1,Traveler's Amulet,Artifact,{1},Common,$0.15,main
+1,Treasure Mage,Creature - Human Wizard,{2}{U},Uncommon,$0.37,main
+1,Trigon of Thought,Artifact,{5},Uncommon,$0.19,main
+1,Trinket Mage,Creature  - Human Wizard,{2}{U},Common,$0.33,main
+1,Triskaidekaphobia,Enchantment,{3}{B},Rare,$0.33,main
+1,Trophy Mage,Creature  - Human Wizard,{2}{U},Uncommon,$0.27,main
+1,Turn Aside,Instant,{U},Common,$0.18,main
+1,Twisted Justice,Sorcery,{4}{U}{B},Uncommon,$0.22,main
+1,Ugin's Nexus,Legendary Artifact,{5},MythicRare,$0.63,main
+1,Unburial Rites,Sorcery,{4}{B},Uncommon,$0.21,main
+1,Underhanded Designs,Enchantment,{1}{B},Uncommon,$0.20,main
+1,Underworld Connections,Enchantment  - Aura,{1}{B}{B},Rare,$0.34,main
+1,Undying Evil,Instant,{B},Common,$0.22,main
+1,Ur-Golem's Eye,Artifact,{4},Uncommon,$0.26,main
+1,Urza's Bauble,Artifact,{0},Uncommon,$1.58,main
+1,Vampiric Rites,Enchantment,{B},Uncommon,$0.21,main
+1,Vault of Whispers,Artifact Land,,Common,$0.47,main
+1,Vectis Agents,Artifact Creature  - Human Rogue,{3}{U}{B},Common,$0.15,main
+1,Vector Asp,Artifact Creature  - Snake,{1},Common,$0.15,main
+1,Vedalken Archmage,Creature  - Vedalken Wizard,{2}{U}{U},Rare,$2.40,main
+1,Vedalken Certarch,Creature  - Vedalken Wizard,{U},Common,$0.14,main
+1,Vedalken Engineer,Creature  - Vedalken Artificer,{1}{U},Common,$0.20,main
+1,Vedalken Outlander,Artifact Creature  - Vedalken Scout,{W}{U},Common,$0.15,main
+1,Venser's Journal,Artifact,{5},Rare,$4.46,main
+1,Vessel of Malignity,Enchantment,{1}{B},Common,$0.14,main
+1,Vial of Poison,Artifact,{1},Uncommon,$0.19,main
+1,Viscera Seer,Creature  - Vampire Wizard,{B},Common,$0.97,main
+1,Visions of Brutality,Enchantment  - Aura,{1}{B},Uncommon,$0.21,main
+1,Vivisection,Sorcery,{3}{U},Common,$0.14,main
+1,Void Shatter,Instant,{1}{U}{U},Uncommon,$0.44,main
+1,Volrath's Curse,Enchantment  - Aura,{1}{U},Common,$0.16,main
+1,Voltaic Construct,Artifact Creature  - Golem Construct,{4},Uncommon,$0.28,main
+1,Voltaic Key,Artifact,{1},Uncommon,$0.82,main
+1,Voracious Null,Creature  - Zombie,{2}{B},Common,$0.13,main
+1,Walk the Plank,Sorcery,{B}{B},Uncommon,$0.55,main
+1,Walking Archive,Artifact Creature  - Golem,{3},Rare,$1.60,main
+1,Walking Atlas,Artifact Creature  - Construct,{2},Common,$0.25,main
+1,Wander in Death,Sorcery,{2}{B},Common,$0.14,main
+1,Wanted Scoundrels,Creature  - Human Pirate,{1}{B},Uncommon,$0.20,main
+1,Warchanter of Mogis,Creature  - Minotaur Shaman,{3}{B}{B},Common,$0.15,main
+1,Welding Jar,Artifact,{0},Common,$0.87,main
+1,Whirler Rogue,Creature  - Human Rogue Artificer,{2}{U}{U},Uncommon,$0.30,main
+1,Whispering Madness,Sorcery,{2}{U}{B},Rare,$0.39,main
+1,Wild-Field Scarecrow,Artifact Creature  - Scarecrow,{3},Uncommon,$0.21,main
+1,Windfall,Sorcery,{2}{U},Uncommon,$0.67,main
+1,Wing Splicer,Creature  - Human Artificer,{3}{U},Uncommon,$0.24,main
+1,Workshop Assistant,Artifact Creature  - Construct,{3},Common,$0.12,main
+1,Worn Powerstone,Artifact,{3},Uncommon,$0.33,main
+1,Wretched Gryff,Creature  - Eldrazi Hippogriff,{7},Common,$0.15,main
